@@ -1,0 +1,243 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cisco: #049fd9;
+  --color-cisco-dark: #0383b4;
+  --color-navy: #005073;
+  --color-deep: #0d274d;
+  --color-ok: #6cc04a;
+  --color-ok-dark: #4e9a31;
+  --color-bad: #d64545;
+  --color-soft: #f3f7fa;
+  --color-softer: #f8fbfd;
+  --color-line: #dce6ee;
+  --color-ink: #1f2a37;
+  --color-muted: #5b6b7b;
+  --color-term: #0b1a30;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, "Cascadia Code", Consolas, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-cisco);
+  outline-offset: 2px;
+}
+
+/* ---------- Lesson prose (rendered markdown) ---------- */
+.md {
+  line-height: 1.75;
+  font-size: 1.0625rem;
+}
+.md > * + * {
+  margin-top: 1rem;
+}
+.md h3 {
+  margin-top: 1.75rem;
+  font-size: 1.15rem;
+  font-weight: 650;
+  color: var(--color-deep);
+}
+.md h4 {
+  margin-top: 1.25rem;
+  font-weight: 650;
+  color: var(--color-navy);
+}
+.md strong {
+  font-weight: 650;
+  color: #0f1f33;
+}
+.md a {
+  color: var(--color-cisco-dark);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.md ul,
+.md ol {
+  padding-left: 1.4rem;
+}
+.md ul {
+  list-style: disc;
+}
+.md ol {
+  list-style: decimal;
+}
+.md li + li {
+  margin-top: 0.35rem;
+}
+.md li::marker {
+  color: var(--color-cisco);
+}
+.md blockquote {
+  border-left: 3px solid var(--color-cisco);
+  background: var(--color-softer);
+  padding: 0.6rem 1rem;
+  color: var(--color-navy);
+  border-radius: 0 6px 6px 0;
+}
+.md code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: #eaf3f9;
+  color: var(--color-deep);
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+}
+.md pre {
+  background: var(--color-term);
+  color: #d7e6f3;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+.md pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+.md table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  display: block;
+  overflow-x: auto;
+}
+.md th {
+  background: var(--color-soft);
+  color: var(--color-deep);
+  font-weight: 650;
+  text-align: left;
+}
+.md th,
+.md td {
+  border: 1px solid var(--color-line);
+  padding: 0.45rem 0.7rem;
+  vertical-align: top;
+}
+.md tr:nth-child(even) td {
+  background: var(--color-softer);
+}
+.md-tight {
+  line-height: 1.6;
+  font-size: 0.97rem;
+}
+.md-tight > * + * {
+  margin-top: 0.6rem;
+}
+
+/* ---------- Switch port panel ---------- */
+.faceplate {
+  background: linear-gradient(180deg, #eef3f7 0%, #e3eaf0 100%);
+  border: 1px solid #cbd7e1;
+  box-shadow: inset 0 1px 0 #fff, 0 1px 2px rgb(13 39 77 / 0.08);
+}
+.port {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+.port-led {
+  width: 7px;
+  height: 7px;
+  border-radius: 999px;
+  background: #b8c4cf;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 0.2);
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.port-led[data-state="visited"] {
+  background: var(--color-ok);
+  box-shadow: 0 0 6px 1px rgb(108 192 74 / 0.75);
+}
+.port-led[data-state="current"] {
+  background: var(--color-cisco);
+  box-shadow: 0 0 7px 1px rgb(4 159 217 / 0.8);
+}
+/* RJ-45 jack shape: a square socket with a tab notch at the bottom */
+.port-jack {
+  position: relative;
+  width: 3.1rem;
+  aspect-ratio: 1 / 0.86;
+  background: #1b2c44;
+  border-radius: 3px;
+  border: 2px solid #9fb1c1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #cfe3f1;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  transition: border-color 0.15s, transform 0.15s, background 0.15s;
+}
+.port-jack::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 38%;
+  height: 22%;
+  transform: translateX(-50%);
+  background: #e7edf2;
+  border: 2px solid #9fb1c1;
+  border-bottom: none;
+  border-radius: 2px 2px 0 0;
+}
+.port:hover .port-jack,
+.port:focus-visible .port-jack {
+  border-color: var(--color-cisco);
+  background: #10345a;
+  transform: translateY(-1px);
+}
+.port[data-pending="true"] .port-jack {
+  background: #44566c;
+  color: #a9b7c4;
+}
+
+/* ---------- Tooltip ---------- */
+.tip-wrap .tip {
+  pointer-events: none;
+  opacity: 0;
+  transform: translate(-50%, 4px);
+  transition: opacity 0.12s, transform 0.12s;
+}
+.tip-wrap:hover .tip,
+.tip-wrap:focus-visible .tip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+/* ---------- Terminal ---------- */
+.terminal {
+  background: var(--color-term);
+  color: #d7e6f3;
+  font-family: var(--font-mono);
+}
+.terminal .prompt {
+  color: #6fd3ff;
+}
+.terminal .output {
+  color: #a9bdd1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    transition: none !important;
+  }
+}

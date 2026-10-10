@@ -1,0 +1,1079 @@
+{
+  "courseFolderUrl": "https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi",
+  "megaLabFolderUrl": "https://drive.google.com/drive/folders/1IeZTfFD-4TpPRprEZEWUGE2wwj7DwAHH",
+  "days": {
+    "1": {
+      "labs": [
+        {
+          "title": "Day 01 Lab - Packet Tracer Introduction",
+          "fileId": "1SuN7w07AQwsQg2D31imftS4DlVEjtUYj",
+          "viewUrl": "https://drive.google.com/file/d/1SuN7w07AQwsQg2D31imftS4DlVEjtUYj/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SuN7w07AQwsQg2D31imftS4DlVEjtUYj"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 01 Flashcards - Network Devices",
+          "fileId": "1D6pByBIxxEfz2YzCYUkx4QMYQdKSbtS5",
+          "viewUrl": "https://drive.google.com/file/d/1D6pByBIxxEfz2YzCYUkx4QMYQdKSbtS5/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1D6pByBIxxEfz2YzCYUkx4QMYQdKSbtS5"
+        }
+      ]
+    },
+    "2": {
+      "labs": [
+        {
+          "title": "Day 02 Lab - Connecting Devices",
+          "fileId": "1-VND2OvIctYlzcuXOvswUFqm8aGe7dya",
+          "viewUrl": "https://drive.google.com/file/d/1-VND2OvIctYlzcuXOvswUFqm8aGe7dya/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-VND2OvIctYlzcuXOvswUFqm8aGe7dya"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 02 Flashcards - Interfaces and Cables",
+          "fileId": "1a5SF195ABiwxI7mQTKQtnyTRVSzlXyvT",
+          "viewUrl": "https://drive.google.com/file/d/1a5SF195ABiwxI7mQTKQtnyTRVSzlXyvT/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1a5SF195ABiwxI7mQTKQtnyTRVSzlXyvT"
+        }
+      ]
+    },
+    "3": {
+      "labs": [
+        {
+          "title": "Day 03 Lab - OSI Model",
+          "fileId": "1pZvsm3f3xxsdEUjjP0VZvGFRBvsy6Jnr",
+          "viewUrl": "https://drive.google.com/file/d/1pZvsm3f3xxsdEUjjP0VZvGFRBvsy6Jnr/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pZvsm3f3xxsdEUjjP0VZvGFRBvsy6Jnr"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 03 Flashcards - TCP-IP",
+          "fileId": "1sjKqwBdnXIrYs3mzmC8ddcDTQPt_qQpM",
+          "viewUrl": "https://drive.google.com/file/d/1sjKqwBdnXIrYs3mzmC8ddcDTQPt_qQpM/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1sjKqwBdnXIrYs3mzmC8ddcDTQPt_qQpM"
+        }
+      ]
+    },
+    "4": {
+      "labs": [
+        {
+          "title": "Day 04 Lab - Basic Device Security",
+          "fileId": "1SukSVB9OKMG49aiqwfOdqc1lU6jVigrW",
+          "viewUrl": "https://drive.google.com/file/d/1SukSVB9OKMG49aiqwfOdqc1lU6jVigrW/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SukSVB9OKMG49aiqwfOdqc1lU6jVigrW"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 04 Flashcards - Intro to the CLI",
+          "fileId": "1OS6t3Lz3Op8mTyZdlR_lOjrAy9Nvgje_",
+          "viewUrl": "https://drive.google.com/file/d/1OS6t3Lz3Op8mTyZdlR_lOjrAy9Nvgje_/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1OS6t3Lz3Op8mTyZdlR_lOjrAy9Nvgje_"
+        }
+      ]
+    },
+    "5": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 05 Flashcards - Ethernet LAN Switching (Part 1)",
+          "fileId": "1KFitWg6C5GVUGOX35Zdg9QF2YfG_S3Xy",
+          "viewUrl": "https://drive.google.com/file/d/1KFitWg6C5GVUGOX35Zdg9QF2YfG_S3Xy/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1KFitWg6C5GVUGOX35Zdg9QF2YfG_S3Xy"
+        }
+      ]
+    },
+    "6": {
+      "labs": [
+        {
+          "title": "Day 06 Lab - Ethernet LAN Switching",
+          "fileId": "16OhcIu29sJfCverN917H716DlKFwUsOJ",
+          "viewUrl": "https://drive.google.com/file/d/16OhcIu29sJfCverN917H716DlKFwUsOJ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16OhcIu29sJfCverN917H716DlKFwUsOJ"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 06 Flashcards - Ethernet LAN Switching (Part 2)",
+          "fileId": "1rUVPNFtQYy5309Zo7FEb-D6PWAp1TF32",
+          "viewUrl": "https://drive.google.com/file/d/1rUVPNFtQYy5309Zo7FEb-D6PWAp1TF32/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rUVPNFtQYy5309Zo7FEb-D6PWAp1TF32"
+        }
+      ]
+    },
+    "7": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 07 Flashcards - IPv4 Addresses (Part 1)",
+          "fileId": "1US2WTEVDdRgsYh_WnLSwWeKdmhKxhvwc",
+          "viewUrl": "https://drive.google.com/file/d/1US2WTEVDdRgsYh_WnLSwWeKdmhKxhvwc/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1US2WTEVDdRgsYh_WnLSwWeKdmhKxhvwc"
+        }
+      ]
+    },
+    "8": {
+      "labs": [
+        {
+          "title": "Day 08 Lab - IPv4 Addresses",
+          "fileId": "1GZnWZoesKa7ZVEDyZOsqWnUzwIQVWFN3",
+          "viewUrl": "https://drive.google.com/file/d/1GZnWZoesKa7ZVEDyZOsqWnUzwIQVWFN3/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1GZnWZoesKa7ZVEDyZOsqWnUzwIQVWFN3"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 08 Flashcards - IPv4 Addresses (Part 2)",
+          "fileId": "1uSfrNsYMuat7JB23hUxx-FM9U2yDK2cv",
+          "viewUrl": "https://drive.google.com/file/d/1uSfrNsYMuat7JB23hUxx-FM9U2yDK2cv/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uSfrNsYMuat7JB23hUxx-FM9U2yDK2cv"
+        }
+      ]
+    },
+    "9": {
+      "labs": [
+        {
+          "title": "Day 09 Lab - Interface Configuration",
+          "fileId": "1ZiHyq7gkHFWkPoCX-DrzPeQZfE7BDDK8",
+          "viewUrl": "https://drive.google.com/file/d/1ZiHyq7gkHFWkPoCX-DrzPeQZfE7BDDK8/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZiHyq7gkHFWkPoCX-DrzPeQZfE7BDDK8"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 09 Flashcards - Switch Interfaces",
+          "fileId": "1DAhzhmxe28jSBC3ZOQU2MVp9b3DPUuBa",
+          "viewUrl": "https://drive.google.com/file/d/1DAhzhmxe28jSBC3ZOQU2MVp9b3DPUuBa/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1DAhzhmxe28jSBC3ZOQU2MVp9b3DPUuBa"
+        }
+      ]
+    },
+    "10": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 10 Flashcards - IPv4 Header",
+          "fileId": "13NHdUZKyhXFCfT3m2AMtwnqEn0hJruiM",
+          "viewUrl": "https://drive.google.com/file/d/13NHdUZKyhXFCfT3m2AMtwnqEn0hJruiM/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13NHdUZKyhXFCfT3m2AMtwnqEn0hJruiM"
+        }
+      ]
+    },
+    "11": {
+      "labs": [
+        {
+          "title": "Day 11 Lab - Configuring Static Routes",
+          "fileId": "1mzdAlKX4xTP6wRuWe-cgNMtIye4zJ7d1",
+          "viewUrl": "https://drive.google.com/file/d/1mzdAlKX4xTP6wRuWe-cgNMtIye4zJ7d1/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mzdAlKX4xTP6wRuWe-cgNMtIye4zJ7d1"
+        },
+        {
+          "title": "Day 11 Lab - Troubleshooting Static Routes",
+          "fileId": "1gzoamRjavYkgSPt-QRZISxrIOoAbTCKm",
+          "viewUrl": "https://drive.google.com/file/d/1gzoamRjavYkgSPt-QRZISxrIOoAbTCKm/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1gzoamRjavYkgSPt-QRZISxrIOoAbTCKm"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 11 (part 1) Flashcards - Routing Fundamentals",
+          "fileId": "1t789upoib6YAT6bkOXw7NHMX4rQWCEjR",
+          "viewUrl": "https://drive.google.com/file/d/1t789upoib6YAT6bkOXw7NHMX4rQWCEjR/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1t789upoib6YAT6bkOXw7NHMX4rQWCEjR"
+        },
+        {
+          "title": "Day 11 (part 2) Flashcards - Static Routing",
+          "fileId": "184zx3mPKpxzkqQiDY2NvJvbGmq8qafNO",
+          "viewUrl": "https://drive.google.com/file/d/184zx3mPKpxzkqQiDY2NvJvbGmq8qafNO/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=184zx3mPKpxzkqQiDY2NvJvbGmq8qafNO"
+        }
+      ]
+    },
+    "12": {
+      "labs": [
+        {
+          "title": "Day 12 Lab - Life of a Packet",
+          "fileId": "1H1JUvxJi5WKk0L7cguiiEZXMIbpGxBwf",
+          "viewUrl": "https://drive.google.com/file/d/1H1JUvxJi5WKk0L7cguiiEZXMIbpGxBwf/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1H1JUvxJi5WKk0L7cguiiEZXMIbpGxBwf"
+        }
+      ],
+      "flashcards": []
+    },
+    "13": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 13 Flashcards - Subnetting",
+          "fileId": "1bQ6Tkdn0VWp-top-NzB8NetXmtsLBQZj",
+          "viewUrl": "https://drive.google.com/file/d/1bQ6Tkdn0VWp-top-NzB8NetXmtsLBQZj/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1bQ6Tkdn0VWp-top-NzB8NetXmtsLBQZj"
+        }
+      ]
+    },
+    "14": {
+      "labs": [],
+      "flashcards": []
+    },
+    "15": {
+      "labs": [
+        {
+          "title": "Day 15 Lab - VLSM",
+          "fileId": "10-nV3W4Xbzk_V2n1_GarMqb2WmAaDSUa",
+          "viewUrl": "https://drive.google.com/file/d/10-nV3W4Xbzk_V2n1_GarMqb2WmAaDSUa/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=10-nV3W4Xbzk_V2n1_GarMqb2WmAaDSUa"
+        }
+      ],
+      "flashcards": []
+    },
+    "16": {
+      "labs": [
+        {
+          "title": "Day 16 Lab - VLANs (Part 1)",
+          "fileId": "1ip1f74K4syLiK2an9lz-qZ9trOzeIk73",
+          "viewUrl": "https://drive.google.com/file/d/1ip1f74K4syLiK2an9lz-qZ9trOzeIk73/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ip1f74K4syLiK2an9lz-qZ9trOzeIk73"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 16 Flashcards - VLANs (Part 1)",
+          "fileId": "1-2wZDpm5XuNcDspKhfl-9fwkF8Yi2rqN",
+          "viewUrl": "https://drive.google.com/file/d/1-2wZDpm5XuNcDspKhfl-9fwkF8Yi2rqN/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-2wZDpm5XuNcDspKhfl-9fwkF8Yi2rqN"
+        }
+      ]
+    },
+    "17": {
+      "labs": [
+        {
+          "title": "Day 17 Lab - VLANs (Part 2)",
+          "fileId": "1rybVPpVFK51v6MvMLIBnEFb0NlP6pSl4",
+          "viewUrl": "https://drive.google.com/file/d/1rybVPpVFK51v6MvMLIBnEFb0NlP6pSl4/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rybVPpVFK51v6MvMLIBnEFb0NlP6pSl4"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 17 Flashcards - VLANs (Part 2)",
+          "fileId": "1pv_KmikiRwenJ-Lh8sbAkF4jO2Cc3W8d",
+          "viewUrl": "https://drive.google.com/file/d/1pv_KmikiRwenJ-Lh8sbAkF4jO2Cc3W8d/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pv_KmikiRwenJ-Lh8sbAkF4jO2Cc3W8d"
+        }
+      ]
+    },
+    "18": {
+      "labs": [
+        {
+          "title": "Day 18 Lab - Multilayer Switching",
+          "fileId": "1OGMpkTvVXo09adyVA8PecCuznDYn31B5",
+          "viewUrl": "https://drive.google.com/file/d/1OGMpkTvVXo09adyVA8PecCuznDYn31B5/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1OGMpkTvVXo09adyVA8PecCuznDYn31B5"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 18 Flashcards - VLANs (Part 3)",
+          "fileId": "13_FPmSSIxY_pbUqU-9qN81DtDiZSPOQs",
+          "viewUrl": "https://drive.google.com/file/d/13_FPmSSIxY_pbUqU-9qN81DtDiZSPOQs/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13_FPmSSIxY_pbUqU-9qN81DtDiZSPOQs"
+        }
+      ]
+    },
+    "19": {
+      "labs": [
+        {
+          "title": "Day 19 Lab - DTP & VTP",
+          "fileId": "1XYysP1tthao_iOQMfvM3nVJ-myGPs3Lc",
+          "viewUrl": "https://drive.google.com/file/d/1XYysP1tthao_iOQMfvM3nVJ-myGPs3Lc/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1XYysP1tthao_iOQMfvM3nVJ-myGPs3Lc"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 19 Flashcards - DTP & VTP",
+          "fileId": "1xob72ScnyGKCSgXCJGkXCiTYJMm7zwlt",
+          "viewUrl": "https://drive.google.com/file/d/1xob72ScnyGKCSgXCJGkXCiTYJMm7zwlt/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1xob72ScnyGKCSgXCJGkXCiTYJMm7zwlt"
+        }
+      ]
+    },
+    "20": {
+      "labs": [
+        {
+          "title": "Day 20 Lab - Analyzing STP",
+          "fileId": "1VQMVuNjAJGHI2XNTeo38YeJgmoHPN3Ek",
+          "viewUrl": "https://drive.google.com/file/d/1VQMVuNjAJGHI2XNTeo38YeJgmoHPN3Ek/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VQMVuNjAJGHI2XNTeo38YeJgmoHPN3Ek"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 20 Flashcards - STP (Part 1)",
+          "fileId": "1qSkz5PQJgSdVjvG9nPEZzPgjmlcaSO-M",
+          "viewUrl": "https://drive.google.com/file/d/1qSkz5PQJgSdVjvG9nPEZzPgjmlcaSO-M/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1qSkz5PQJgSdVjvG9nPEZzPgjmlcaSO-M"
+        }
+      ]
+    },
+    "21": {
+      "labs": [
+        {
+          "title": "Day 21 Lab - Configuring Spanning Tree",
+          "fileId": "1lRqPCCBARJcuCxjif-P81HIy4AB0nCl_",
+          "viewUrl": "https://drive.google.com/file/d/1lRqPCCBARJcuCxjif-P81HIy4AB0nCl_/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1lRqPCCBARJcuCxjif-P81HIy4AB0nCl_"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 21 Flashcards - STP (Part 2)",
+          "fileId": "1gc-DSPCeNodQNAu5REeL4dMosfCniwbp",
+          "viewUrl": "https://drive.google.com/file/d/1gc-DSPCeNodQNAu5REeL4dMosfCniwbp/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1gc-DSPCeNodQNAu5REeL4dMosfCniwbp"
+        },
+        {
+          "title": "Day 21-1 Flashcards - PortFast",
+          "fileId": "1R7yvmLvosgmZDmpj-widu-p8Tc1UiiaZ",
+          "viewUrl": "https://drive.google.com/file/d/1R7yvmLvosgmZDmpj-widu-p8Tc1UiiaZ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1R7yvmLvosgmZDmpj-widu-p8Tc1UiiaZ"
+        },
+        {
+          "title": "Day 21-2 Flashcards - BPDU Guard & BPDU Filter",
+          "fileId": "1HtqRdiNW79SrdG_hNOF4nSTOy4EX4Nze",
+          "viewUrl": "https://drive.google.com/file/d/1HtqRdiNW79SrdG_hNOF4nSTOy4EX4Nze/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1HtqRdiNW79SrdG_hNOF4nSTOy4EX4Nze"
+        },
+        {
+          "title": "Day 21-3 Flashcards - Root Guard",
+          "fileId": "1-YarQv-SQiJsguI3ke2O0b3koe_-mK8z",
+          "viewUrl": "https://drive.google.com/file/d/1-YarQv-SQiJsguI3ke2O0b3koe_-mK8z/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-YarQv-SQiJsguI3ke2O0b3koe_-mK8z"
+        },
+        {
+          "title": "Day 21-4 Flashcards - Loop Guard",
+          "fileId": "1_czOwahRsFXj1jONobJMo7p8sM8OBhJO",
+          "viewUrl": "https://drive.google.com/file/d/1_czOwahRsFXj1jONobJMo7p8sM8OBhJO/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1_czOwahRsFXj1jONobJMo7p8sM8OBhJO"
+        }
+      ]
+    },
+    "22": {
+      "labs": [
+        {
+          "title": "Day 22 Lab - Rapid STP",
+          "fileId": "1-0MY33DZvkHAhUleK7OIWU7TwwGYPy8P",
+          "viewUrl": "https://drive.google.com/file/d/1-0MY33DZvkHAhUleK7OIWU7TwwGYPy8P/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-0MY33DZvkHAhUleK7OIWU7TwwGYPy8P"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 22 Flashcards - Rapid STP",
+          "fileId": "1pEeQINNH31YtdnLmUFWOUzBEIz3y3UU8",
+          "viewUrl": "https://drive.google.com/file/d/1pEeQINNH31YtdnLmUFWOUzBEIz3y3UU8/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1pEeQINNH31YtdnLmUFWOUzBEIz3y3UU8"
+        }
+      ]
+    },
+    "23": {
+      "labs": [
+        {
+          "title": "Day 23 Lab - EtherChannel",
+          "fileId": "1rsupPecGfusK4EPBLPEF7zWFLm2ribJE",
+          "viewUrl": "https://drive.google.com/file/d/1rsupPecGfusK4EPBLPEF7zWFLm2ribJE/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rsupPecGfusK4EPBLPEF7zWFLm2ribJE"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 23 Flashcards - EtherChannel",
+          "fileId": "1ea6TCTKwkNsCRNYSv3dxjMi-azYkyDNP",
+          "viewUrl": "https://drive.google.com/file/d/1ea6TCTKwkNsCRNYSv3dxjMi-azYkyDNP/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ea6TCTKwkNsCRNYSv3dxjMi-azYkyDNP"
+        }
+      ]
+    },
+    "24": {
+      "labs": [
+        {
+          "title": "Day 24 Lab - Floating Static Routes",
+          "fileId": "14IqZxxJUWb2CEr3rNrk9m8hQT_gBQS8O",
+          "viewUrl": "https://drive.google.com/file/d/14IqZxxJUWb2CEr3rNrk9m8hQT_gBQS8O/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14IqZxxJUWb2CEr3rNrk9m8hQT_gBQS8O"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 24 Flashcards - Dynamic Routing",
+          "fileId": "1J3FBHVJughASUn5RbzBHcoXHXsMFD2OW",
+          "viewUrl": "https://drive.google.com/file/d/1J3FBHVJughASUn5RbzBHcoXHXsMFD2OW/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1J3FBHVJughASUn5RbzBHcoXHXsMFD2OW"
+        }
+      ]
+    },
+    "25": {
+      "labs": [
+        {
+          "title": "Day 25 Lab - EIGRP Configuration",
+          "fileId": "1wXo_MoSBChvrWV_U3TlmKktNqZwjtkhZ",
+          "viewUrl": "https://drive.google.com/file/d/1wXo_MoSBChvrWV_U3TlmKktNqZwjtkhZ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wXo_MoSBChvrWV_U3TlmKktNqZwjtkhZ"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 25 Flashcards (1) - RIP & EIGRP",
+          "fileId": "1k-vUbXrZkcgg9MyuUILqE1AC9FpKuNAq",
+          "viewUrl": "https://drive.google.com/file/d/1k-vUbXrZkcgg9MyuUILqE1AC9FpKuNAq/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1k-vUbXrZkcgg9MyuUILqE1AC9FpKuNAq"
+        },
+        {
+          "title": "Day 25 Flashcards (2 - Lab Video) - EIGRP Terms",
+          "fileId": "1YYrJ1m77FCfR-M97wwA0W3LcNVwsm1QL",
+          "viewUrl": "https://drive.google.com/file/d/1YYrJ1m77FCfR-M97wwA0W3LcNVwsm1QL/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1YYrJ1m77FCfR-M97wwA0W3LcNVwsm1QL"
+        }
+      ]
+    },
+    "26": {
+      "labs": [
+        {
+          "title": "Day 26 Lab - OSPF (Part 1)",
+          "fileId": "15HbqOncPul02hc6lwZxZ3qZBpigGGxlY",
+          "viewUrl": "https://drive.google.com/file/d/15HbqOncPul02hc6lwZxZ3qZBpigGGxlY/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=15HbqOncPul02hc6lwZxZ3qZBpigGGxlY"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 26 Flashcards - OSPF (Part 1)",
+          "fileId": "1wOdweBYGXnh5pF4FIt7RsiEC8_yjdRS-",
+          "viewUrl": "https://drive.google.com/file/d/1wOdweBYGXnh5pF4FIt7RsiEC8_yjdRS-/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wOdweBYGXnh5pF4FIt7RsiEC8_yjdRS-"
+        }
+      ]
+    },
+    "27": {
+      "labs": [
+        {
+          "title": "Day 27 Lab - OSPF (Part 2)",
+          "fileId": "1Mz-9thtyFqSmVJJEZ0tophUnjbgLqcuZ",
+          "viewUrl": "https://drive.google.com/file/d/1Mz-9thtyFqSmVJJEZ0tophUnjbgLqcuZ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Mz-9thtyFqSmVJJEZ0tophUnjbgLqcuZ"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 27 Flashcards - OSPF (Part 2)",
+          "fileId": "1uv6tRTBgRze1NYWJBMFh9AdZzaB2CYWQ",
+          "viewUrl": "https://drive.google.com/file/d/1uv6tRTBgRze1NYWJBMFh9AdZzaB2CYWQ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uv6tRTBgRze1NYWJBMFh9AdZzaB2CYWQ"
+        }
+      ]
+    },
+    "28": {
+      "labs": [
+        {
+          "title": "Day 28 Lab - OSPF (Part 3)",
+          "fileId": "1hMJ3wbbrLlYf_0TGG-kkYGyIdZ9YmiaA",
+          "viewUrl": "https://drive.google.com/file/d/1hMJ3wbbrLlYf_0TGG-kkYGyIdZ9YmiaA/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1hMJ3wbbrLlYf_0TGG-kkYGyIdZ9YmiaA"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 28 Flashcards - OSPF (Part 3)",
+          "fileId": "1HX6jDq1o_TgtNkHcEje0wULhL5L70tAy",
+          "viewUrl": "https://drive.google.com/file/d/1HX6jDq1o_TgtNkHcEje0wULhL5L70tAy/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1HX6jDq1o_TgtNkHcEje0wULhL5L70tAy"
+        }
+      ]
+    },
+    "29": {
+      "labs": [
+        {
+          "title": "Day 29 Lab - HSRP Configuration",
+          "fileId": "1Sz-8IbRLHnlNjdQ_8c90GOGlmRAVcaMN",
+          "viewUrl": "https://drive.google.com/file/d/1Sz-8IbRLHnlNjdQ_8c90GOGlmRAVcaMN/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Sz-8IbRLHnlNjdQ_8c90GOGlmRAVcaMN"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 29 Flashcards - FHRPs",
+          "fileId": "1b2HWkAdFlyVjQCIl6lNFSqJiYEm0ucC2",
+          "viewUrl": "https://drive.google.com/file/d/1b2HWkAdFlyVjQCIl6lNFSqJiYEm0ucC2/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1b2HWkAdFlyVjQCIl6lNFSqJiYEm0ucC2"
+        }
+      ]
+    },
+    "30": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 30 Flashcards - TCP & UDP",
+          "fileId": "1xmz7E1SqMDChZg72XmIH-0ADIpXUzCOZ",
+          "viewUrl": "https://drive.google.com/file/d/1xmz7E1SqMDChZg72XmIH-0ADIpXUzCOZ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1xmz7E1SqMDChZg72XmIH-0ADIpXUzCOZ"
+        }
+      ]
+    },
+    "31": {
+      "labs": [
+        {
+          "title": "Day 31 Lab - IPv6 Configuration (Part 1)",
+          "fileId": "1fszsOPKN3R53UX-6xclXXregvs54iGlT",
+          "viewUrl": "https://drive.google.com/file/d/1fszsOPKN3R53UX-6xclXXregvs54iGlT/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1fszsOPKN3R53UX-6xclXXregvs54iGlT"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 31 Flashcards - IPv6 (Part 1)",
+          "fileId": "1vtaSPuJ7EJyLVhyyK3seqZZecGgATKe-",
+          "viewUrl": "https://drive.google.com/file/d/1vtaSPuJ7EJyLVhyyK3seqZZecGgATKe-/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1vtaSPuJ7EJyLVhyyK3seqZZecGgATKe-"
+        }
+      ]
+    },
+    "32": {
+      "labs": [
+        {
+          "title": "Day 32 Lab - IPv6 Configuration (Part 2)",
+          "fileId": "1aY0y5ER8n-KTSvG4lNhgZ5zYWhoCdpGl",
+          "viewUrl": "https://drive.google.com/file/d/1aY0y5ER8n-KTSvG4lNhgZ5zYWhoCdpGl/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aY0y5ER8n-KTSvG4lNhgZ5zYWhoCdpGl"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 32 Flashcards - IPv6 (Part 2)",
+          "fileId": "1iMR487wbmsP00Oj9UYd9WO7984GWdeZU",
+          "viewUrl": "https://drive.google.com/file/d/1iMR487wbmsP00Oj9UYd9WO7984GWdeZU/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1iMR487wbmsP00Oj9UYd9WO7984GWdeZU"
+        }
+      ]
+    },
+    "33": {
+      "labs": [
+        {
+          "title": "Day 33 Lab - IPv6 Static Routes",
+          "fileId": "1Ejl1lzYOL4yYF5wsgsKq6f4A0YEr6Pr6",
+          "viewUrl": "https://drive.google.com/file/d/1Ejl1lzYOL4yYF5wsgsKq6f4A0YEr6Pr6/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ejl1lzYOL4yYF5wsgsKq6f4A0YEr6Pr6"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 33 Flashcards - IPv6 (Part 3)",
+          "fileId": "1fdLijqY3K3_Ed_HdSBHVh7GV13BvyjO7",
+          "viewUrl": "https://drive.google.com/file/d/1fdLijqY3K3_Ed_HdSBHVh7GV13BvyjO7/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1fdLijqY3K3_Ed_HdSBHVh7GV13BvyjO7"
+        }
+      ]
+    },
+    "34": {
+      "labs": [
+        {
+          "title": "Day 34 Lab - Standard ACLs",
+          "fileId": "1udeg-IDgXqEbnNjpqlnB1A4gJZikSfYj",
+          "viewUrl": "https://drive.google.com/file/d/1udeg-IDgXqEbnNjpqlnB1A4gJZikSfYj/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1udeg-IDgXqEbnNjpqlnB1A4gJZikSfYj"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 34 Flashcards - Standard ACLs",
+          "fileId": "1mKxNnQDSv1s578h6rqyKLyNTKENZWXMb",
+          "viewUrl": "https://drive.google.com/file/d/1mKxNnQDSv1s578h6rqyKLyNTKENZWXMb/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1mKxNnQDSv1s578h6rqyKLyNTKENZWXMb"
+        }
+      ]
+    },
+    "35": {
+      "labs": [
+        {
+          "title": "Day 35 Lab - Extended ACLs",
+          "fileId": "1h-LOhXKHmR3a6E6rMi-s8WloZtsmOzZP",
+          "viewUrl": "https://drive.google.com/file/d/1h-LOhXKHmR3a6E6rMi-s8WloZtsmOzZP/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1h-LOhXKHmR3a6E6rMi-s8WloZtsmOzZP"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 35 Flashcards - Extended ACLs",
+          "fileId": "1nRvvDP5HgjuId9xyL0E7qy_8Ue32RZqK",
+          "viewUrl": "https://drive.google.com/file/d/1nRvvDP5HgjuId9xyL0E7qy_8Ue32RZqK/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1nRvvDP5HgjuId9xyL0E7qy_8Ue32RZqK"
+        }
+      ]
+    },
+    "36": {
+      "labs": [
+        {
+          "title": "Day 36 Lab - CDP & LLDP",
+          "fileId": "1C7fbE017qm3K8DRmgmHbekbShT7Fo_60",
+          "viewUrl": "https://drive.google.com/file/d/1C7fbE017qm3K8DRmgmHbekbShT7Fo_60/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1C7fbE017qm3K8DRmgmHbekbShT7Fo_60"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 36 Flashcards - CDP & LLDP",
+          "fileId": "1yBnR0ChyGxsFqk2WZyrub_0WWQN198E0",
+          "viewUrl": "https://drive.google.com/file/d/1yBnR0ChyGxsFqk2WZyrub_0WWQN198E0/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yBnR0ChyGxsFqk2WZyrub_0WWQN198E0"
+        }
+      ]
+    },
+    "37": {
+      "labs": [
+        {
+          "title": "Day 37 Lab - NTP",
+          "fileId": "1iHFStjQVY9WognP9rwu0800jMY9pKpw8",
+          "viewUrl": "https://drive.google.com/file/d/1iHFStjQVY9WognP9rwu0800jMY9pKpw8/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1iHFStjQVY9WognP9rwu0800jMY9pKpw8"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 37 Flashcards - NTP",
+          "fileId": "1vPoyzQp-qSuE3bERQ2N3orSw8BqZ-QLJ",
+          "viewUrl": "https://drive.google.com/file/d/1vPoyzQp-qSuE3bERQ2N3orSw8BqZ-QLJ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1vPoyzQp-qSuE3bERQ2N3orSw8BqZ-QLJ"
+        }
+      ]
+    },
+    "38": {
+      "labs": [
+        {
+          "title": "Day 38 Lab - DNS",
+          "fileId": "18FRGpskRvhMGFutysXmtiz0FBL1Nzqga",
+          "viewUrl": "https://drive.google.com/file/d/18FRGpskRvhMGFutysXmtiz0FBL1Nzqga/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=18FRGpskRvhMGFutysXmtiz0FBL1Nzqga"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 38 Flashcards - DNS",
+          "fileId": "1Vz77N-6xP8RkpHu6_PFX3yt7Ny1rWItP",
+          "viewUrl": "https://drive.google.com/file/d/1Vz77N-6xP8RkpHu6_PFX3yt7Ny1rWItP/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Vz77N-6xP8RkpHu6_PFX3yt7Ny1rWItP"
+        }
+      ]
+    },
+    "39": {
+      "labs": [
+        {
+          "title": "Day 39 Lab - DHCP",
+          "fileId": "1QpsSPwq1Pryqyi8_pzuGxUb9aYYLcVn9",
+          "viewUrl": "https://drive.google.com/file/d/1QpsSPwq1Pryqyi8_pzuGxUb9aYYLcVn9/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1QpsSPwq1Pryqyi8_pzuGxUb9aYYLcVn9"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 39 Flashcards - DHCP",
+          "fileId": "1Nc0vOhlP8bf10HcG9pNN3xjNy9OGdyCA",
+          "viewUrl": "https://drive.google.com/file/d/1Nc0vOhlP8bf10HcG9pNN3xjNy9OGdyCA/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Nc0vOhlP8bf10HcG9pNN3xjNy9OGdyCA"
+        }
+      ]
+    },
+    "40": {
+      "labs": [
+        {
+          "title": "Day 40 Lab - SNMP",
+          "fileId": "1vJKkcwhgh2QJYjfRcDR-SYarvuB7Y7y3",
+          "viewUrl": "https://drive.google.com/file/d/1vJKkcwhgh2QJYjfRcDR-SYarvuB7Y7y3/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1vJKkcwhgh2QJYjfRcDR-SYarvuB7Y7y3"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 40 Flashcards - SNMP",
+          "fileId": "1Pjuf6akBPNjUr4z8Dhu0y5F-fZ-O0bhK",
+          "viewUrl": "https://drive.google.com/file/d/1Pjuf6akBPNjUr4z8Dhu0y5F-fZ-O0bhK/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Pjuf6akBPNjUr4z8Dhu0y5F-fZ-O0bhK"
+        }
+      ]
+    },
+    "41": {
+      "labs": [
+        {
+          "title": "Day 41 Lab - Syslog",
+          "fileId": "1P7Ilf6KpbEfxBZdw2otC7GZRGri9q6xP",
+          "viewUrl": "https://drive.google.com/file/d/1P7Ilf6KpbEfxBZdw2otC7GZRGri9q6xP/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1P7Ilf6KpbEfxBZdw2otC7GZRGri9q6xP"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 41 Flashcards - Syslog",
+          "fileId": "1QSwJGcFaoCXYxY94vCQn5fFWjWPU6tdD",
+          "viewUrl": "https://drive.google.com/file/d/1QSwJGcFaoCXYxY94vCQn5fFWjWPU6tdD/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1QSwJGcFaoCXYxY94vCQn5fFWjWPU6tdD"
+        }
+      ]
+    },
+    "42": {
+      "labs": [
+        {
+          "title": "Day 42 Lab - SSH",
+          "fileId": "1tT0Te4VILrFkWBAGO73KeUU6eonddDxx",
+          "viewUrl": "https://drive.google.com/file/d/1tT0Te4VILrFkWBAGO73KeUU6eonddDxx/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1tT0Te4VILrFkWBAGO73KeUU6eonddDxx"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 42 Flashcards - SSH",
+          "fileId": "1VMWEgjsU5-5KQtidUqjS9dDcytAjD6_I",
+          "viewUrl": "https://drive.google.com/file/d/1VMWEgjsU5-5KQtidUqjS9dDcytAjD6_I/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VMWEgjsU5-5KQtidUqjS9dDcytAjD6_I"
+        }
+      ]
+    },
+    "43": {
+      "labs": [
+        {
+          "title": "Day 43 Lab - FTP & TFTP",
+          "fileId": "1F4jAmJaHzXm9PuunHCqCWbocRD6K83j4",
+          "viewUrl": "https://drive.google.com/file/d/1F4jAmJaHzXm9PuunHCqCWbocRD6K83j4/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1F4jAmJaHzXm9PuunHCqCWbocRD6K83j4"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 43 Flashcards - FTP & TFTP",
+          "fileId": "1cvpL9WTHuxJGtqbUZtvqgP3ay4bYeZ-F",
+          "viewUrl": "https://drive.google.com/file/d/1cvpL9WTHuxJGtqbUZtvqgP3ay4bYeZ-F/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1cvpL9WTHuxJGtqbUZtvqgP3ay4bYeZ-F"
+        }
+      ]
+    },
+    "44": {
+      "labs": [
+        {
+          "title": "Day 44 Lab - Static NAT",
+          "fileId": "1WpBwA530qbFkSqHjkLU8vWoZTsKv8d8j",
+          "viewUrl": "https://drive.google.com/file/d/1WpBwA530qbFkSqHjkLU8vWoZTsKv8d8j/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1WpBwA530qbFkSqHjkLU8vWoZTsKv8d8j"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 44 Flashcards - NAT (Part 1)",
+          "fileId": "151OImDJbMKIgdjx2xSsgselVuWqeCVfg",
+          "viewUrl": "https://drive.google.com/file/d/151OImDJbMKIgdjx2xSsgselVuWqeCVfg/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=151OImDJbMKIgdjx2xSsgselVuWqeCVfg"
+        }
+      ]
+    },
+    "45": {
+      "labs": [
+        {
+          "title": "Day 45 Lab - Dynamic NAT",
+          "fileId": "1aGHEemDCsK5xsdYDANDw4QgEU77lqpdS",
+          "viewUrl": "https://drive.google.com/file/d/1aGHEemDCsK5xsdYDANDw4QgEU77lqpdS/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1aGHEemDCsK5xsdYDANDw4QgEU77lqpdS"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 45 Flashcards - NAT (Part 2)",
+          "fileId": "1SbZli7nmoAK4dtAll63UKGvbCC_lMDFH",
+          "viewUrl": "https://drive.google.com/file/d/1SbZli7nmoAK4dtAll63UKGvbCC_lMDFH/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SbZli7nmoAK4dtAll63UKGvbCC_lMDFH"
+        }
+      ]
+    },
+    "46": {
+      "labs": [
+        {
+          "title": "Day 46 Lab - Voice VLANs",
+          "fileId": "1-bD-mLjCDgAU82_9A5GNqYTFs2tafuhB",
+          "viewUrl": "https://drive.google.com/file/d/1-bD-mLjCDgAU82_9A5GNqYTFs2tafuhB/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-bD-mLjCDgAU82_9A5GNqYTFs2tafuhB"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 46 Flashcards - QoS (Part 1)",
+          "fileId": "1NUzTNApkahxDmzkYvb-1wE8cXhLnMYvm",
+          "viewUrl": "https://drive.google.com/file/d/1NUzTNApkahxDmzkYvb-1wE8cXhLnMYvm/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NUzTNApkahxDmzkYvb-1wE8cXhLnMYvm"
+        }
+      ]
+    },
+    "47": {
+      "labs": [
+        {
+          "title": "Day 47 Lab - QoS",
+          "fileId": "1UKLvMRWqP0Q8YYFgc7TqyVZkUn72IYCM",
+          "viewUrl": "https://drive.google.com/file/d/1UKLvMRWqP0Q8YYFgc7TqyVZkUn72IYCM/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1UKLvMRWqP0Q8YYFgc7TqyVZkUn72IYCM"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 47 Flashcards - QoS (Part 2)",
+          "fileId": "1dh_ND1PeDyv3o98dTWIyo144lDREtpuy",
+          "viewUrl": "https://drive.google.com/file/d/1dh_ND1PeDyv3o98dTWIyo144lDREtpuy/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1dh_ND1PeDyv3o98dTWIyo144lDREtpuy"
+        }
+      ]
+    },
+    "48": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 48 Flashcards - Security Fundamentals",
+          "fileId": "1FnMxhu84VF08EmWw57ZSEubknqFVP743",
+          "viewUrl": "https://drive.google.com/file/d/1FnMxhu84VF08EmWw57ZSEubknqFVP743/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1FnMxhu84VF08EmWw57ZSEubknqFVP743"
+        }
+      ]
+    },
+    "49": {
+      "labs": [
+        {
+          "title": "Day 49 Lab - Port Security",
+          "fileId": "128OExLU65z7mdaYoAbkIue88rjspImlu",
+          "viewUrl": "https://drive.google.com/file/d/128OExLU65z7mdaYoAbkIue88rjspImlu/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=128OExLU65z7mdaYoAbkIue88rjspImlu"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 49 Flashcards - Port Security",
+          "fileId": "1Id8dNQnlH8IN9H5sbgdhOeAc1uK8c9eA",
+          "viewUrl": "https://drive.google.com/file/d/1Id8dNQnlH8IN9H5sbgdhOeAc1uK8c9eA/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Id8dNQnlH8IN9H5sbgdhOeAc1uK8c9eA"
+        }
+      ]
+    },
+    "50": {
+      "labs": [
+        {
+          "title": "Day 50 Lab - DHCP Snooping",
+          "fileId": "1oqp-8hRAnTC4p1L_rJavPbaK7nks1rXB",
+          "viewUrl": "https://drive.google.com/file/d/1oqp-8hRAnTC4p1L_rJavPbaK7nks1rXB/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1oqp-8hRAnTC4p1L_rJavPbaK7nks1rXB"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 50 Flashcards - DHCP Snooping",
+          "fileId": "1NZ2cTA7pf8E-ZmbP0FdgZ8Wehsliql8t",
+          "viewUrl": "https://drive.google.com/file/d/1NZ2cTA7pf8E-ZmbP0FdgZ8Wehsliql8t/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1NZ2cTA7pf8E-ZmbP0FdgZ8Wehsliql8t"
+        }
+      ]
+    },
+    "51": {
+      "labs": [
+        {
+          "title": "Day 51 Lab - Dynamic ARP Inspection",
+          "fileId": "1W1VwyFfcdVqLanOf7ffqzr3EXx0lzx2S",
+          "viewUrl": "https://drive.google.com/file/d/1W1VwyFfcdVqLanOf7ffqzr3EXx0lzx2S/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1W1VwyFfcdVqLanOf7ffqzr3EXx0lzx2S"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 51 Flashcards - Dynamic ARP Inspection",
+          "fileId": "1yL_Ijl-_rmhADrPZWCXJw-FeXRDkV4hM",
+          "viewUrl": "https://drive.google.com/file/d/1yL_Ijl-_rmhADrPZWCXJw-FeXRDkV4hM/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1yL_Ijl-_rmhADrPZWCXJw-FeXRDkV4hM"
+        }
+      ]
+    },
+    "52": {
+      "labs": [
+        {
+          "title": "Day 52 Lab - STP & HSRP Synchronization",
+          "fileId": "1Yr_bRDCHnWvaoBJSOCaUtyoFRWfPmxG9",
+          "viewUrl": "https://drive.google.com/file/d/1Yr_bRDCHnWvaoBJSOCaUtyoFRWfPmxG9/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Yr_bRDCHnWvaoBJSOCaUtyoFRWfPmxG9"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 52 Flashcards - LAN Architectures",
+          "fileId": "1MTCN97Z7d532jPfbOCNR1WlZBRMnYfai",
+          "viewUrl": "https://drive.google.com/file/d/1MTCN97Z7d532jPfbOCNR1WlZBRMnYfai/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1MTCN97Z7d532jPfbOCNR1WlZBRMnYfai"
+        }
+      ]
+    },
+    "53": {
+      "labs": [
+        {
+          "title": "Day 53 Lab - GRE Tunnels",
+          "fileId": "18O4gSfV4PpAhqT6NoFkvuDK7YzIIpSM1",
+          "viewUrl": "https://drive.google.com/file/d/18O4gSfV4PpAhqT6NoFkvuDK7YzIIpSM1/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=18O4gSfV4PpAhqT6NoFkvuDK7YzIIpSM1"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 53 Flashcards - WAN Architectures",
+          "fileId": "1CAQDMuqAL61lty9Y4_1lOBKfAh-c-zJZ",
+          "viewUrl": "https://drive.google.com/file/d/1CAQDMuqAL61lty9Y4_1lOBKfAh-c-zJZ/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CAQDMuqAL61lty9Y4_1lOBKfAh-c-zJZ"
+        }
+      ]
+    },
+    "54": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 54 (Part 1) Flashcards - Virtualization & Cloud",
+          "fileId": "1LKHQERGNLx1tRdBNdKRjI6gugbClTD3f",
+          "viewUrl": "https://drive.google.com/file/d/1LKHQERGNLx1tRdBNdKRjI6gugbClTD3f/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1LKHQERGNLx1tRdBNdKRjI6gugbClTD3f"
+        },
+        {
+          "title": "Day 54 (Part 2) Flashcards - Containers",
+          "fileId": "1FXx_e0iJR0V0ohdn3rdB0bRXquu1PFAt",
+          "viewUrl": "https://drive.google.com/file/d/1FXx_e0iJR0V0ohdn3rdB0bRXquu1PFAt/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1FXx_e0iJR0V0ohdn3rdB0bRXquu1PFAt"
+        },
+        {
+          "title": "Day 54 (Part 3) Flashcards - VRF",
+          "fileId": "1xRAwweRBgpAwDOGex1KsMY8kP6Xd8naW",
+          "viewUrl": "https://drive.google.com/file/d/1xRAwweRBgpAwDOGex1KsMY8kP6Xd8naW/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1xRAwweRBgpAwDOGex1KsMY8kP6Xd8naW"
+        }
+      ]
+    },
+    "55": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 55 Flashcards - Wireless Fundamentals",
+          "fileId": "1fnC9IzmgLkaH1RgfD_4Xcq_Ypdn4MdZi",
+          "viewUrl": "https://drive.google.com/file/d/1fnC9IzmgLkaH1RgfD_4Xcq_Ypdn4MdZi/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1fnC9IzmgLkaH1RgfD_4Xcq_Ypdn4MdZi"
+        }
+      ]
+    },
+    "56": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 56 Flashcards - Wireless Architectures",
+          "fileId": "1ZT8eNiI0ttegadbZMeZX86N6xSo8slIW",
+          "viewUrl": "https://drive.google.com/file/d/1ZT8eNiI0ttegadbZMeZX86N6xSo8slIW/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZT8eNiI0ttegadbZMeZX86N6xSo8slIW"
+        }
+      ]
+    },
+    "57": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 57 Flashcards - Wireless Security",
+          "fileId": "1i4ki3LgHaEFROO-qEW39q9xA69OahIdf",
+          "viewUrl": "https://drive.google.com/file/d/1i4ki3LgHaEFROO-qEW39q9xA69OahIdf/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1i4ki3LgHaEFROO-qEW39q9xA69OahIdf"
+        }
+      ]
+    },
+    "58": {
+      "labs": [
+        {
+          "title": "Day 58 Lab - Wireless LANs",
+          "fileId": "12p3-5zcwvWp3yLHaux2gXYcEek5JtAa6",
+          "viewUrl": "https://drive.google.com/file/d/12p3-5zcwvWp3yLHaux2gXYcEek5JtAa6/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=12p3-5zcwvWp3yLHaux2gXYcEek5JtAa6"
+        }
+      ],
+      "flashcards": [
+        {
+          "title": "Day 58 Flashcards - Wireless Configuration",
+          "fileId": "111s9-XJgIR1a6GS9NrUOGHR0f941kOtK",
+          "viewUrl": "https://drive.google.com/file/d/111s9-XJgIR1a6GS9NrUOGHR0f941kOtK/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=111s9-XJgIR1a6GS9NrUOGHR0f941kOtK"
+        }
+      ]
+    },
+    "59": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 59 (Part 1) Flashcards - Network Automation",
+          "fileId": "1vY_K5H10GHNiyoDwNaok4PCyPpi0MKVV",
+          "viewUrl": "https://drive.google.com/file/d/1vY_K5H10GHNiyoDwNaok4PCyPpi0MKVV/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1vY_K5H10GHNiyoDwNaok4PCyPpi0MKVV"
+        },
+        {
+          "title": "Day 59 (Part 2) Flashcards - AI & Machine Learning",
+          "fileId": "1jP9cxfsvMA091YE5mOPKT1gPhJYD0PHc",
+          "viewUrl": "https://drive.google.com/file/d/1jP9cxfsvMA091YE5mOPKT1gPhJYD0PHc/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1jP9cxfsvMA091YE5mOPKT1gPhJYD0PHc"
+        }
+      ]
+    },
+    "60": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 60 Flashcards - JSON, XML, & YAML",
+          "fileId": "1XTM_vnDqfkcJRM44vkmWUhTfefZ-Cq1P",
+          "viewUrl": "https://drive.google.com/file/d/1XTM_vnDqfkcJRM44vkmWUhTfefZ-Cq1P/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1XTM_vnDqfkcJRM44vkmWUhTfefZ-Cq1P"
+        }
+      ]
+    },
+    "61": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 61 (Part 1) Flashcards - REST APIs",
+          "fileId": "1y4zDCS5nmku8QZJZGA34yFBmbXpy-dsU",
+          "viewUrl": "https://drive.google.com/file/d/1y4zDCS5nmku8QZJZGA34yFBmbXpy-dsU/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1y4zDCS5nmku8QZJZGA34yFBmbXpy-dsU"
+        },
+        {
+          "title": "Day 61 (Part 2) Flashcards - REST Authentication",
+          "fileId": "1ivcubQ61MK64TxE0l8qqIp27tzZ05-Ik",
+          "viewUrl": "https://drive.google.com/file/d/1ivcubQ61MK64TxE0l8qqIp27tzZ05-Ik/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1ivcubQ61MK64TxE0l8qqIp27tzZ05-Ik"
+        }
+      ]
+    },
+    "62": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 62 Flashcards - SDN",
+          "fileId": "1rjjSYIs6KrWyHHycjsHXGoEqi6kAs2G4",
+          "viewUrl": "https://drive.google.com/file/d/1rjjSYIs6KrWyHHycjsHXGoEqi6kAs2G4/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rjjSYIs6KrWyHHycjsHXGoEqi6kAs2G4"
+        }
+      ]
+    },
+    "63": {
+      "labs": [],
+      "flashcards": [
+        {
+          "title": "Day 63 (part 1) Flashcards - Ansible, Puppet, Chef",
+          "fileId": "1wvWv7LMVg9vNVWCtcbnQvvVFNnW-bHLd",
+          "viewUrl": "https://drive.google.com/file/d/1wvWv7LMVg9vNVWCtcbnQvvVFNnW-bHLd/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wvWv7LMVg9vNVWCtcbnQvvVFNnW-bHLd"
+        },
+        {
+          "title": "Day 63 (part 2) Flashcards - Terraform",
+          "fileId": "1B4mPt7vPmWVysRLO-t5WLw5d5UvPmTNg",
+          "viewUrl": "https://drive.google.com/file/d/1B4mPt7vPmWVysRLO-t5WLw5d5UvPmTNg/view",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1B4mPt7vPmWVysRLO-t5WLw5d5UvPmTNg"
+        }
+      ]
+    }
+  }
+}

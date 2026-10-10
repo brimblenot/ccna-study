@@ -1,0 +1,4369 @@
+[
+  {
+    "day": 1,
+    "title": "Networking Devices",
+    "parts": [
+      {
+        "part": "",
+        "title": "Networking Devices",
+        "file": "Day 01 - Networking Devices.md",
+        "images": []
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "title": "Interfaces and Cables",
+    "parts": [
+      {
+        "part": "",
+        "title": "Interfaces and Cables",
+        "file": "Day 02 - Interfaces and Cables.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00b27997-a78a-4e81-a878-7f8ab7e3279e",
+            "localPath": "/notes/day-02/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/323930c9-3387-4bf9-aae1-f61db0fd9c04",
+            "localPath": "/notes/day-02/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/907259d9-1837-4d53-8f45-a42934fb66f2",
+            "localPath": "/notes/day-02/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d98646ad-366f-4e96-8c6f-f6b5f32f9bdc",
+            "localPath": "/notes/day-02/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/763c841a-d7b5-4e87-8500-b54d623af620",
+            "localPath": "/notes/day-02/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/70b81cde-265f-413b-815b-3e7184ea0586",
+            "localPath": "/notes/day-02/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d9a4b633-44c2-491d-92e4-329dd3b9074b",
+            "localPath": "/notes/day-02/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e73ec4d0-9aa1-4a75-848c-3af70e770dce",
+            "localPath": "/notes/day-02/08.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "title": "OSI Model and TCP/IP Suite",
+    "parts": [
+      {
+        "part": "",
+        "title": "OSI Model and TCP/IP Suite",
+        "file": "Day 03 - OSI Model and TCP-IP Suite.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bbf46de2-e025-4ddd-b52b-614b280598da",
+            "localPath": "/notes/day-03/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b7cf4900-993c-49f0-b6ea-70f4f0719633",
+            "localPath": "/notes/day-03/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/01f532f6-b636-4b7c-99d0-a67f7e483a99",
+            "localPath": "/notes/day-03/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9b885a51-91cd-4fe6-b1be-e7fa7aa220b5",
+            "localPath": "/notes/day-03/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e9593c06-46a3-4ff9-aa01-863e0aeb5df3",
+            "localPath": "/notes/day-03/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/372c45a0-bb3e-4342-af2b-79d3606384ec",
+            "localPath": "/notes/day-03/06.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "title": "Intro to the CLI",
+    "parts": [
+      {
+        "part": "",
+        "title": "Intro to the CLI",
+        "file": "Day 04 - Intro to the CLI.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0527c007-d607-4bef-8ce1-7b18a177614d",
+            "localPath": "/notes/day-04/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/52454e6f-d5b1-45f0-9a50-e412d356f6d2",
+            "localPath": "/notes/day-04/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/09c841fe-b5c0-4683-9082-baf060e24c03",
+            "localPath": "/notes/day-04/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/346f3015-9211-47a9-888f-4e02a013a728",
+            "localPath": "/notes/day-04/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2978d101-08d4-4ee3-8995-f36aa1c47d15",
+            "localPath": "/notes/day-04/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e16966a3-674a-4376-bdab-2c06e3659e5f",
+            "localPath": "/notes/day-04/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e449e074-bf4c-40f1-a61e-0442ad83f284",
+            "localPath": "/notes/day-04/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4c1bdf58-7de6-4074-8189-1573a174474c",
+            "localPath": "/notes/day-04/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e7771e65-5ed5-406d-9751-76520713210c",
+            "localPath": "/notes/day-04/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5f7357d4-f44b-4a61-a24c-86f3368f30f7",
+            "localPath": "/notes/day-04/10.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "title": "Ethernet LAN Switching Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "Ethernet LAN Switching Part 1",
+        "file": "Day 05 - Ethernet LAN Switching Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a40e81d9-c008-4fb4-8580-2eaf63003e63",
+            "localPath": "/notes/day-05/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2db46525-98b8-4211-aeb3-efc34bd84222",
+            "localPath": "/notes/day-05/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2a4de9d4-3408-49b9-9492-42b7eb56fe27",
+            "localPath": "/notes/day-05/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ad579917-f9a0-4cd8-be25-351ecbfc87af",
+            "localPath": "/notes/day-05/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c8c1a143-0675-4aa4-83bc-6031d10cc0b8",
+            "localPath": "/notes/day-05/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/65a5e84a-b8db-46f5-b288-518139e99453",
+            "localPath": "/notes/day-05/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/582421a9-6351-48b7-bfe1-c2153520920c",
+            "localPath": "/notes/day-05/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ff731ab3-fad2-4e10-9fa7-ce583a6a0bb2",
+            "localPath": "/notes/day-05/08.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "title": "Ethernet LAN Switching Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "Ethernet LAN Switching Part 2",
+        "file": "Day 06 - Ethernet LAN Switching Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/27c1877f-57d7-44ea-8c64-b0ec2b308ad0",
+            "localPath": "/notes/day-06/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e2d0e5d2-7c98-4671-b356-903132fd7525",
+            "localPath": "/notes/day-06/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/914cdf2a-c631-47e5-80f9-46e32ebed311",
+            "localPath": "/notes/day-06/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/da199d21-4f41-485e-8917-ca8e3d789617",
+            "localPath": "/notes/day-06/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c1cd95dd-7742-4703-9487-946652c95485",
+            "localPath": "/notes/day-06/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/657b054b-a90c-4e5f-8544-2a51082cb631",
+            "localPath": "/notes/day-06/06.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "title": "IPv4 Addressing Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "IPv4 Addressing Part 1",
+        "file": "Day 07 - IPv4 Addressing Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3d414956-cb53-46f6-b386-3fc9bba11802",
+            "localPath": "/notes/day-07/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6e593774-4113-4493-89bb-4d394cb29e1d",
+            "localPath": "/notes/day-07/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4f4bd7da-1876-4000-8229-be4b8792a86d",
+            "localPath": "/notes/day-07/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e45f0ea9-a705-463b-bb9b-d81034cf130d",
+            "localPath": "/notes/day-07/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/808fa7fa-0239-42fa-9706-79db87ea167e",
+            "localPath": "/notes/day-07/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2e7c64e1-5689-486a-bba0-9623f5e8de7d",
+            "localPath": "/notes/day-07/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7cc286bf-ce76-4eee-af52-062a63dac2b4",
+            "localPath": "/notes/day-07/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/25f7db1a-f934-4c73-9926-66bb207fd292",
+            "localPath": "/notes/day-07/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/874c022f-9b8c-4862-a495-597682b014a4",
+            "localPath": "/notes/day-07/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12178b46-2604-468b-a11c-2a94087b023d",
+            "localPath": "/notes/day-07/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/53eafb43-2a6f-422c-af19-866946d78efa",
+            "localPath": "/notes/day-07/11.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "title": "IPv4 Addressing Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "IPv4 Addressing Part 2",
+        "file": "Day 08 - IPv4 Addressing Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fa113ff0-a8ee-410b-ab3e-64684654cac6",
+            "localPath": "/notes/day-08/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/df83bf09-c391-45b7-b1b4-41db061b84f4",
+            "localPath": "/notes/day-08/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bdc1152e-1946-4ddb-ae72-1e23b9c9defa",
+            "localPath": "/notes/day-08/03.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "title": "Switch Interfaces",
+    "parts": [
+      {
+        "part": "",
+        "title": "Switch Interfaces",
+        "file": "Day 09 - Switch Interfaces.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5d0d80dc-74d1-4656-841c-fcaa2b89c760",
+            "localPath": "/notes/day-09/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e3947ef5-9100-426f-8d62-fd4ce5224351",
+            "localPath": "/notes/day-09/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e0fdc339-21d9-4313-b7d8-78303a7ba1ea",
+            "localPath": "/notes/day-09/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12a33be7-795f-467a-87a4-42c5b218960b",
+            "localPath": "/notes/day-09/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7b5953f7-77d3-4826-8efc-072498a7f9c0",
+            "localPath": "/notes/day-09/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/06e2e267-1e07-48a1-8c8c-8edbd5bd48ae",
+            "localPath": "/notes/day-09/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8d1d49d3-e000-4570-ab7e-b994b959ebd5",
+            "localPath": "/notes/day-09/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/feff3816-1449-4282-bc44-71575333a1e0",
+            "localPath": "/notes/day-09/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/30519cf7-0a79-4996-a8d8-dfac689f4005",
+            "localPath": "/notes/day-09/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/20d6affd-6014-427d-9ad9-c638ace358f8",
+            "localPath": "/notes/day-09/10.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "title": "The IPv4 Header",
+    "parts": [
+      {
+        "part": "",
+        "title": "The IPv4 Header",
+        "file": "Day 10 - The IPv4 Header.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/64906e3c-0bae-4c2c-96ca-4e6850f3844a",
+            "localPath": "/notes/day-10/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f2667488-2769-4e62-bee7-eddbf9e00058",
+            "localPath": "/notes/day-10/02.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "title": "Routing Fundamentals and Static Routing",
+    "parts": [
+      {
+        "part": "a",
+        "title": "Routing Fundamentals Part 1",
+        "file": "Day 11a - Routing Fundamentals Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8ceefb10-d70d-4530-969d-40347ed34297",
+            "localPath": "/notes/day-11/a01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b3555fdd-37a4-4bc8-b998-76e0b5455bb1",
+            "localPath": "/notes/day-11/a02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/99e75230-de1c-4f48-acd0-3482bba256af",
+            "localPath": "/notes/day-11/a03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/13a77d5c-497d-49ca-9717-ea3bb4a560d0",
+            "localPath": "/notes/day-11/a04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6e3a2b3b-1590-4625-9bcf-cdaed95738d2",
+            "localPath": "/notes/day-11/a05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/891fcfbe-7dc5-4fb2-9b02-c6905236761e",
+            "localPath": "/notes/day-11/a06.png"
+          }
+        ]
+      },
+      {
+        "part": "b",
+        "title": "Static Routing Part 2",
+        "file": "Day 11b - Static Routing Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e44ac71c-91e3-4963-85da-ac07e475b248",
+            "localPath": "/notes/day-11/b01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/289212da-6c94-44fb-a1e3-1c066b56d79c",
+            "localPath": "/notes/day-11/b02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f8f7d58b-89b7-412c-9cf6-c038338e105d",
+            "localPath": "/notes/day-11/b03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/63611407-719e-46d3-8331-a18533616285",
+            "localPath": "/notes/day-11/b04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/10135afa-ace6-47f1-aada-1b73f243589b",
+            "localPath": "/notes/day-11/b05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d375a428-e171-4212-9698-2f2589878884",
+            "localPath": "/notes/day-11/b06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/012f4134-2667-421b-9b36-f449faebf423",
+            "localPath": "/notes/day-11/b07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0a3ed6cb-c414-4365-aef4-754b4b82483e",
+            "localPath": "/notes/day-11/b08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4379f8fb-a366-4279-a31c-ff2ba3f6fdb8",
+            "localPath": "/notes/day-11/b09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6fed6489-c53c-404e-b794-b71c2e9b8e4f",
+            "localPath": "/notes/day-11/b10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dc93b5f9-791c-44fc-8b88-2053491183a9",
+            "localPath": "/notes/day-11/b11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a0eef93a-b40b-409b-8b51-6cdbace4ff45",
+            "localPath": "/notes/day-11/b12.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "title": "Life of a Packet",
+    "parts": [
+      {
+        "part": "",
+        "title": "Life of a Packet",
+        "file": "Day 12 - Life of a Packet.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ec16b9fd-4d90-4b73-b930-cd825ff13b00",
+            "localPath": "/notes/day-12/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5eb94811-32f3-47f6-884e-f45a71456e84",
+            "localPath": "/notes/day-12/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dc0d05cc-9b76-4921-895d-bfbe78ceb0a7",
+            "localPath": "/notes/day-12/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/884f7113-21a9-407f-a38e-44489ae3b47e",
+            "localPath": "/notes/day-12/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/36459aeb-e802-4347-b626-0c9cc168c624",
+            "localPath": "/notes/day-12/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/163bfaf6-15c7-4f7d-9429-4c62a28f0292",
+            "localPath": "/notes/day-12/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1f7e5683-00e6-4ce0-b52a-ca8fdb24c87b",
+            "localPath": "/notes/day-12/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/18d04c9d-3734-44e7-995d-b53ab3aaa2a1",
+            "localPath": "/notes/day-12/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/07c44007-a208-47a2-a0e8-ca289f86be75",
+            "localPath": "/notes/day-12/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4bcbdba0-234a-4cfa-aa25-cbc3c3c061e1",
+            "localPath": "/notes/day-12/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/81c2e8ad-be55-487c-b9da-02540f70b0d9",
+            "localPath": "/notes/day-12/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/91cfe407-28b5-48e8-b5f8-a60b324e0706",
+            "localPath": "/notes/day-12/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4bf8c10b-1240-4e7d-8db4-85ea5f3f619f",
+            "localPath": "/notes/day-12/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f938e440-ebdb-444c-b4c7-705d8fd2a4e9",
+            "localPath": "/notes/day-12/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1f236bda-d2cf-4252-af3b-bdc5ec5c2aca",
+            "localPath": "/notes/day-12/15.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "title": "Subnetting Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "Subnetting Part 1",
+        "file": "Day 13 - Subnetting Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a475e909-59b8-4615-a0b9-8a3c1fbdc313",
+            "localPath": "/notes/day-13/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f0836136-c4a9-475b-b6c2-d1c550b8cfdd",
+            "localPath": "/notes/day-13/02.png"
+          },
+          {
+            "url": "https://github.com/user-attachments/assets/d1e103b8-142a-44cc-8ab4-f5337268c9de",
+            "localPath": "/notes/day-13/03.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "title": "Subnetting Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "Subnetting Part 2",
+        "file": "Day 14 - Subnetting Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/08be5a37-fa2c-4483-94c9-6c3d05229894",
+            "localPath": "/notes/day-14/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/44e8cdcb-16c2-41c4-8f22-a0a31071550a",
+            "localPath": "/notes/day-14/02.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "title": "Subnetting (VLSM) Part 3",
+    "parts": [
+      {
+        "part": "",
+        "title": "Subnetting (VLSM) Part 3",
+        "file": "Day 15 - Subnetting (VLSM) Part 3.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/30a08f93-796a-4fe9-854e-58af0bcbd69b",
+            "localPath": "/notes/day-15/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ad7d7ac0-5e00-4662-8192-f7f9db86f1d9",
+            "localPath": "/notes/day-15/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dc006342-4bd9-40d4-b1c5-9ac7a670ed96",
+            "localPath": "/notes/day-15/03.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "title": "VLANs Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "VLANs Part 1",
+        "file": "Day 16 - VLANs Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/de712483-e881-41f5-9525-576216186498",
+            "localPath": "/notes/day-16/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a807fdc5-27b9-4735-8b8d-51bdc0c91a8c",
+            "localPath": "/notes/day-16/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fcd03904-a193-4423-8940-09be1df1bd2c",
+            "localPath": "/notes/day-16/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7bd562fc-7dff-4692-81d7-c026b007df8f",
+            "localPath": "/notes/day-16/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fae2f1ed-ffc3-4d91-adf7-16a67c2dc5aa",
+            "localPath": "/notes/day-16/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2e5834e9-9096-46eb-bb96-ba8459338107",
+            "localPath": "/notes/day-16/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3046f727-fad4-421e-85ef-63a73e109f83",
+            "localPath": "/notes/day-16/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7090ef6d-ce8c-454f-b80d-f6dfd82745c8",
+            "localPath": "/notes/day-16/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b7237602-5b46-4c31-bd75-2e50e0fb1017",
+            "localPath": "/notes/day-16/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/13ce8382-6aea-484e-9580-d91c98189522",
+            "localPath": "/notes/day-16/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ed31145d-7949-4c68-b88a-97716beaf074",
+            "localPath": "/notes/day-16/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b1bdb937-3707-496f-bc49-445df354d16b",
+            "localPath": "/notes/day-16/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2f7d26d8-9b2a-43a3-b213-fec4f984a309",
+            "localPath": "/notes/day-16/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5c64e485-f492-4436-9c1d-3a1ab20fbe05",
+            "localPath": "/notes/day-16/14.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "title": "VLANs Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "VLANs Part 2",
+        "file": "Day 17 - VLANs Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f6df37e0-d494-4e46-b6e8-6d2ba0cd0ff6",
+            "localPath": "/notes/day-17/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e6aff877-3792-469f-8955-0f3e17c6f1ed",
+            "localPath": "/notes/day-17/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5cb7c933-689a-499b-9f30-51fe63d8b059",
+            "localPath": "/notes/day-17/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8ea9a799-cf0d-4b1d-9706-db002772fe6d",
+            "localPath": "/notes/day-17/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00e817cd-1cac-44c5-a5f6-5459d383236d",
+            "localPath": "/notes/day-17/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8e52856b-58b9-448e-a007-254973fe707e",
+            "localPath": "/notes/day-17/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1c55a830-bfdd-423a-9688-334a3dd2bfa3",
+            "localPath": "/notes/day-17/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8b1e09a1-e9c5-410e-ad87-581b95eaca81",
+            "localPath": "/notes/day-17/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f8145795-b3f7-4766-9507-4fba7c743a14",
+            "localPath": "/notes/day-17/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a1811276-c043-4035-9957-800873068615",
+            "localPath": "/notes/day-17/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d73b8f0b-2154-4e7f-8057-7c5b3f5078cc",
+            "localPath": "/notes/day-17/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/29313a87-cf16-439c-8a9e-90b518326954",
+            "localPath": "/notes/day-17/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6b897fb0-14a3-4e6a-b4e8-e278a6aec08e",
+            "localPath": "/notes/day-17/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d3e144c7-90e3-4ab0-8021-7eb4d1420282",
+            "localPath": "/notes/day-17/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6a60f6ce-55be-4df5-a715-b871e5e461f4",
+            "localPath": "/notes/day-17/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b39b091d-1ea9-4f72-b592-1eeb8ef25f90",
+            "localPath": "/notes/day-17/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5109becb-27dd-4c63-9c7b-74b6f55e9d5f",
+            "localPath": "/notes/day-17/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/36abc437-69cb-4c56-8a59-87479ce01a7f",
+            "localPath": "/notes/day-17/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/892b5322-807b-4d76-91cb-a039766794c5",
+            "localPath": "/notes/day-17/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7b313959-b710-4bb6-a281-727ec9477c3e",
+            "localPath": "/notes/day-17/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c26f17c8-0ec9-4406-ab66-83adf28c8550",
+            "localPath": "/notes/day-17/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/66c4ace0-8341-4c9c-8ff5-7c171034df53",
+            "localPath": "/notes/day-17/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b409165d-39e6-4fba-ade1-2451f7e2fa8c",
+            "localPath": "/notes/day-17/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/112a2089-5a9e-4b13-945c-6be7f188d6a8",
+            "localPath": "/notes/day-17/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9b7ecbd1-c5f4-4ed0-9988-8fd17e16c9ae",
+            "localPath": "/notes/day-17/25.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1e9bb3fa-5aca-4883-8aff-52a554dcfba6",
+            "localPath": "/notes/day-17/26.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "title": "VLANs Part 3",
+    "parts": [
+      {
+        "part": "",
+        "title": "VLANs Part 3",
+        "file": "Day 18 - VLANs Part 3.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/838b9835-d17d-4d57-bac1-52f7e3adfd77",
+            "localPath": "/notes/day-18/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1e903c1b-b814-40b5-aaea-1ba9f3f192c8",
+            "localPath": "/notes/day-18/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2ea65208-6b2a-4cac-a463-982a731c9e24",
+            "localPath": "/notes/day-18/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dabcc3b4-13c3-4d60-abe2-c7cbb5edd4c2",
+            "localPath": "/notes/day-18/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/37ce4f0f-0ac0-45ce-802f-5fd11057f69d",
+            "localPath": "/notes/day-18/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0d63f5f9-5efe-4c61-a8e6-3cd6a1161d2a",
+            "localPath": "/notes/day-18/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/af59481b-d0cb-41d7-9eba-7c8d47131c28",
+            "localPath": "/notes/day-18/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8f3ad167-d774-4fcb-96a5-66e568edead8",
+            "localPath": "/notes/day-18/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5409b2cc-f876-4754-afe3-33298930fd7a",
+            "localPath": "/notes/day-18/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/953372de-579a-4803-9418-0bd1aeef229d",
+            "localPath": "/notes/day-18/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/40354cbe-df39-4a78-97cd-bbb0bc10549c",
+            "localPath": "/notes/day-18/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/24d64087-f98c-4a1e-a07f-3f93f06f93a9",
+            "localPath": "/notes/day-18/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7a682a2f-3ae3-420b-8f68-9e1050dd82c6",
+            "localPath": "/notes/day-18/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c0b544b7-8f32-49ae-9a46-d09390a3d08c",
+            "localPath": "/notes/day-18/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7c1710fb-40d7-44a4-8336-b037e1c2ea77",
+            "localPath": "/notes/day-18/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2b5b13c3-1364-4296-886c-0bd9b00b4167",
+            "localPath": "/notes/day-18/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/558ef418-5902-42d0-b4a5-cce14b56b77e",
+            "localPath": "/notes/day-18/17.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "title": "DTP and VTP",
+    "parts": [
+      {
+        "part": "",
+        "title": "DTP and VTP",
+        "file": "Day 19 - DTP and VTP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bf716a33-8e11-4c09-bb0b-336ba48ef26d",
+            "localPath": "/notes/day-19/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/93d5e4f4-cb24-4d3f-ba62-fd002581cfbb",
+            "localPath": "/notes/day-19/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/87dcd7ff-f3d3-4441-841c-a0506c249f03",
+            "localPath": "/notes/day-19/03.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "title": "Spanning Tree Protocol Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "Spanning Tree Protocol Part 1",
+        "file": "Day 20 - Spanning Tree Protocol Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b3b76af5-11e6-495b-8c40-40eb5800704b",
+            "localPath": "/notes/day-20/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/01c20d92-2cf6-4d1f-a193-ded7753aeb38",
+            "localPath": "/notes/day-20/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a0bf91be-a463-45df-bfc5-df471d0544b5",
+            "localPath": "/notes/day-20/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d13b6ab5-5298-4166-bdfa-3315f05a2961",
+            "localPath": "/notes/day-20/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f719de69-df9e-4549-b3cb-914d7c5aabc4",
+            "localPath": "/notes/day-20/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f253770d-22fa-4e3f-91b0-8f2b4c2f1a61",
+            "localPath": "/notes/day-20/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/45125471-da23-4753-b5b1-16c23a2bfeff",
+            "localPath": "/notes/day-20/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/05177f47-882e-47ea-8bec-22e073392e1c",
+            "localPath": "/notes/day-20/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/17f921f6-0583-4070-9493-5f5d80ad4866",
+            "localPath": "/notes/day-20/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bb49a034-9f6d-4e92-9ea0-8bc71c4f2ec8",
+            "localPath": "/notes/day-20/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/39fe6239-1217-4885-b07b-8f368dad0e28",
+            "localPath": "/notes/day-20/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b1e1a69d-4b9c-46bf-9b77-f30b9f7c3933",
+            "localPath": "/notes/day-20/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0ee95883-aed8-42a3-ba82-11209ef8cd40",
+            "localPath": "/notes/day-20/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/35037ae9-3430-44ac-be6d-c8d2a2a42c24",
+            "localPath": "/notes/day-20/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/63d2fb87-31fa-4b57-a2c3-a203feded8ba",
+            "localPath": "/notes/day-20/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c3fcc32b-e95f-4d4b-a241-f9f3080e858f",
+            "localPath": "/notes/day-20/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1b69a092-4150-44c3-b605-5916fdea91d6",
+            "localPath": "/notes/day-20/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/62bcf349-dd89-48be-92f6-d6a184edeb6f",
+            "localPath": "/notes/day-20/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ae382ec2-9c0f-4673-94b5-5d1411c8db6b",
+            "localPath": "/notes/day-20/19.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "title": "Spanning Tree Protocol Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "Spanning Tree Protocol Part 2",
+        "file": "Day 21 - Spanning Tree Protocol Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5c9a17ff-b0d6-455c-8677-5144dd5a0048",
+            "localPath": "/notes/day-21/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f4cea5ca-b90a-423e-9160-f206b8b1621d",
+            "localPath": "/notes/day-21/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a174469f-9e75-4645-aff8-d4bfe46fb207",
+            "localPath": "/notes/day-21/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0e68839f-c4ec-448b-8876-791212462009",
+            "localPath": "/notes/day-21/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/43c91f09-0d9f-4b81-b5a2-f02003e25b88",
+            "localPath": "/notes/day-21/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00c61767-72b4-4d51-b964-f76b6f4f6ae9",
+            "localPath": "/notes/day-21/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bb38aedc-df38-4d76-b6cb-30319e74ecc1",
+            "localPath": "/notes/day-21/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f29e2f41-3fac-463c-ab14-bb2d2f49816d",
+            "localPath": "/notes/day-21/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e90f16ad-c85c-4868-bbf4-9095c0abd581",
+            "localPath": "/notes/day-21/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d28f782-4673-4bc8-9aae-999aeac90685",
+            "localPath": "/notes/day-21/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/880a4cc7-e472-4764-a68b-a62288066796",
+            "localPath": "/notes/day-21/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2cedeb36-27f1-4984-96e7-28ab70957c51",
+            "localPath": "/notes/day-21/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/58af0a8d-eeb4-4c34-8b54-6b8ff511695c",
+            "localPath": "/notes/day-21/13.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "title": "Rapid Spanning Tree Protocol",
+    "parts": [
+      {
+        "part": "",
+        "title": "Rapid Spanning Tree Protocol",
+        "file": "Day 22 - Rapid Spanning Tree Protocol.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ca5ff85c-842e-4ed3-9b6a-f9d6ed546a78",
+            "localPath": "/notes/day-22/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b250c6da-2579-4576-8e93-5a8f8e66d873",
+            "localPath": "/notes/day-22/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/054d5037-a60e-478e-986b-6f43825a0d1a",
+            "localPath": "/notes/day-22/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d81e70c-3b31-4448-9d45-9aadb738c74d",
+            "localPath": "/notes/day-22/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41f3be85-6225-4749-83b4-f76952c5756a",
+            "localPath": "/notes/day-22/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c4cea7b7-599f-4ec8-b9d3-a5acba71a5f5",
+            "localPath": "/notes/day-22/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/61aefc04-b3a9-484a-bbfa-1efe792c73c7",
+            "localPath": "/notes/day-22/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/be4d404d-829d-41ab-ba39-34e918ed7ea9",
+            "localPath": "/notes/day-22/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b5dec396-d5fc-486b-9110-5dcc2c4dc4aa",
+            "localPath": "/notes/day-22/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1930a17b-6c74-4756-b89d-4148008f586b",
+            "localPath": "/notes/day-22/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2d2deb45-3f81-4c60-b9fa-0f6c3fe7c060",
+            "localPath": "/notes/day-22/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c03d2645-42d8-4d95-b486-999e82ac12a8",
+            "localPath": "/notes/day-22/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e837a271-ad13-4d6a-a800-434a0eff2576",
+            "localPath": "/notes/day-22/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a7314f6f-55f0-4e62-bd24-b311b090afe8",
+            "localPath": "/notes/day-22/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b76eb7be-897a-4617-990e-f399ceaea5f2",
+            "localPath": "/notes/day-22/15.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "title": "EtherChannel",
+    "parts": [
+      {
+        "part": "",
+        "title": "EtherChannel",
+        "file": "Day 23 - EtherChannel.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/86cecd4a-1554-4ece-8a88-6f97e24788f1",
+            "localPath": "/notes/day-23/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6ada996f-8fd4-4339-9ad7-d52e51a3553e",
+            "localPath": "/notes/day-23/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4c2cfcf8-57f2-4907-8322-2f26cc7dc7e4",
+            "localPath": "/notes/day-23/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a48bed14-11b4-42ba-965a-9724598d3b69",
+            "localPath": "/notes/day-23/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bc257ff8-bf91-4744-a6cb-8f603ee9d294",
+            "localPath": "/notes/day-23/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/571623bf-b96b-4382-ada5-f14f93ec1a6a",
+            "localPath": "/notes/day-23/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5919f2fd-80bb-4b10-bfa0-ce403f52c710",
+            "localPath": "/notes/day-23/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bc30e17e-716a-41cd-a57a-69a661b5d58e",
+            "localPath": "/notes/day-23/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d0c734e2-79ad-43ad-a50b-c17ced608021",
+            "localPath": "/notes/day-23/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9eabb76a-1846-48d3-abb1-bd6898a432e7",
+            "localPath": "/notes/day-23/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bc0c1190-9e39-4ea2-923c-b29e03e9d40a",
+            "localPath": "/notes/day-23/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ba4adcf6-dec5-456f-b8d7-ab4e6b722cbf",
+            "localPath": "/notes/day-23/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0a314613-d398-49f1-a4d3-1b50fb96ab7d",
+            "localPath": "/notes/day-23/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/92db26e7-21ae-40c6-89ee-abe0197ed8ad",
+            "localPath": "/notes/day-23/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/83ef9bc8-4bd4-4dd3-b28e-83439ba96860",
+            "localPath": "/notes/day-23/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c485cdf1-f0ed-44b8-8c91-c0553bf6d82d",
+            "localPath": "/notes/day-23/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6adda3dd-6408-445f-bb3f-61847b3920b6",
+            "localPath": "/notes/day-23/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9e0edb15-2806-4d51-afc9-ad67ed465a97",
+            "localPath": "/notes/day-23/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/23d92ae1-9cc6-4f3a-9ddf-2ead59705c1c",
+            "localPath": "/notes/day-23/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b1b3ce70-d9a6-4bd2-be4d-976077438c85",
+            "localPath": "/notes/day-23/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/61731b0c-1cc5-4a7e-b92c-d0afbea0ac2d",
+            "localPath": "/notes/day-23/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/df0b9cc8-0448-4bbd-aefa-62fadf2b6089",
+            "localPath": "/notes/day-23/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c553ad64-1d8e-4a2a-a741-3102c89dc030",
+            "localPath": "/notes/day-23/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c4520b2f-1e3b-49b8-85b1-458cdb6fc865",
+            "localPath": "/notes/day-23/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8638f32d-47c3-4c64-b68e-a9e2e0070ac9",
+            "localPath": "/notes/day-23/25.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3ec55a24-1de5-44a7-926c-f85500042115",
+            "localPath": "/notes/day-23/26.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f99ea2a6-82fb-494a-b80d-a171732d5786",
+            "localPath": "/notes/day-23/27.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/acfe62c5-6908-4782-9440-1f75f842c2c9",
+            "localPath": "/notes/day-23/28.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6cae87f0-0226-40cc-92ba-b839c7a5ff53",
+            "localPath": "/notes/day-23/29.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "title": "Dynamic Routing",
+    "parts": [
+      {
+        "part": "",
+        "title": "Dynamic Routing",
+        "file": "Day 24 - Dynamic Routing.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8acc17ee-5d4b-4725-b5e4-18dc5743340e",
+            "localPath": "/notes/day-24/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/deb9abf6-6e21-4c94-a407-bfc501a1d739",
+            "localPath": "/notes/day-24/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9d2d7f88-a325-461f-99fd-0dc88ee23749",
+            "localPath": "/notes/day-24/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a477d438-f6cb-4a09-b66d-e07826755bd1",
+            "localPath": "/notes/day-24/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e689a88a-7275-489c-80b4-18894a7ce4c9",
+            "localPath": "/notes/day-24/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a7cb9cb-beea-4522-87f7-7fd11df9f745",
+            "localPath": "/notes/day-24/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d4509ce2-07f1-4fb0-8e31-cf58c049c355",
+            "localPath": "/notes/day-24/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/06af6c77-3a03-44fa-8c55-9382347d3f5e",
+            "localPath": "/notes/day-24/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/37680a4b-caab-4e1d-ac64-00a799bd965f",
+            "localPath": "/notes/day-24/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/36729569-0e56-4eb2-91ee-e7cd25a8c234",
+            "localPath": "/notes/day-24/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/773eb20d-7983-4da4-ae66-e97e421e83ba",
+            "localPath": "/notes/day-24/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bf324652-f4b8-482e-af17-03da590ac85d",
+            "localPath": "/notes/day-24/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3f8437cc-5b38-4f1e-b185-c5e9fce6c5f1",
+            "localPath": "/notes/day-24/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/79662f99-a847-457b-8080-76f77c25c5e6",
+            "localPath": "/notes/day-24/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7b8390aa-46d4-49d3-83a4-03ba095bf927",
+            "localPath": "/notes/day-24/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d0c6c9f2-3526-46b2-b520-1f4b6b28ea8f",
+            "localPath": "/notes/day-24/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0f5ea405-d321-41bc-b2c0-2185874d07db",
+            "localPath": "/notes/day-24/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/33dbbe2b-7471-4c17-ae27-4d363d115a4c",
+            "localPath": "/notes/day-24/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ec167f95-e5d7-49c8-aff7-1957e51934b1",
+            "localPath": "/notes/day-24/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/db6bef3b-ed82-49f0-b094-804c82f67f8d",
+            "localPath": "/notes/day-24/20.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "title": "RIP and EIGRP",
+    "parts": [
+      {
+        "part": "",
+        "title": "RIP and EIGRP",
+        "file": "Day 25 - RIP and EIGRP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1d14ec8b-121c-4666-b608-1e5d1889424c",
+            "localPath": "/notes/day-25/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2a9452f0-b48f-499d-938f-0a3db5ff6587",
+            "localPath": "/notes/day-25/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/634f4c6b-291c-4a21-8ae2-c8283044efce",
+            "localPath": "/notes/day-25/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/57de003e-0e8e-48c7-bb72-fbe25208d847",
+            "localPath": "/notes/day-25/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1c500efd-e96b-4e49-b1f4-f99c54b0e877",
+            "localPath": "/notes/day-25/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/799d818a-06cc-4f29-8c74-c67639c9d014",
+            "localPath": "/notes/day-25/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1deccb54-02e0-4d3b-b203-277d656504b3",
+            "localPath": "/notes/day-25/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b7ab4046-b6eb-4e19-b7eb-2c5d2889293a",
+            "localPath": "/notes/day-25/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/35d524bd-055d-4c5e-a84b-f507a87738e0",
+            "localPath": "/notes/day-25/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5247942b-1d6b-419f-a4c7-75bfcca43fe6",
+            "localPath": "/notes/day-25/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f2b42631-bcb9-4f62-afe9-b7bb1e7e0d7e",
+            "localPath": "/notes/day-25/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f64e06d3-75ad-4f4f-b7d6-26f27ffae541",
+            "localPath": "/notes/day-25/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/13130e3c-de62-4f80-9c7d-256a2ed47e74",
+            "localPath": "/notes/day-25/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1aa2cd2c-397f-4f3b-86ed-81eddf2677a6",
+            "localPath": "/notes/day-25/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/500ac3b0-5d83-4691-ab94-06fd330a9111",
+            "localPath": "/notes/day-25/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f3f169da-d733-4da9-8d8a-c90e2077d8a7",
+            "localPath": "/notes/day-25/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/29757624-9e79-4878-8724-36d5da43f39b",
+            "localPath": "/notes/day-25/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8216ceb6-0d3f-42e7-8e5b-46e810097fb8",
+            "localPath": "/notes/day-25/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/436ba2c2-43e7-4fea-a527-f88a8e4460bc",
+            "localPath": "/notes/day-25/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/206db633-3a7e-4d11-bb80-029ea8107503",
+            "localPath": "/notes/day-25/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/23a2045b-a925-4f75-b0f8-78cbae2aa1e2",
+            "localPath": "/notes/day-25/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/824dac1d-38dc-4e7e-bb48-b382918230ff",
+            "localPath": "/notes/day-25/22.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "title": "OSPF Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "OSPF Part 1",
+        "file": "Day 26 - OSPF Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f58477d1-f574-4195-8f6c-851823dedfbf",
+            "localPath": "/notes/day-26/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2a6a126b-74f1-49e2-96be-fc411c8812fd",
+            "localPath": "/notes/day-26/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0f5084fe-f7fb-4b33-a8d0-2ed0155d7502",
+            "localPath": "/notes/day-26/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ad9648f4-736a-43b5-96de-8a30f6f800c8",
+            "localPath": "/notes/day-26/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/38fcce32-8d15-4db0-9a0c-170d6083a534",
+            "localPath": "/notes/day-26/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41da3fe8-f24a-468c-beeb-91cc12066c70",
+            "localPath": "/notes/day-26/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a0422f88-dbd9-4965-8c73-16cfd438b05e",
+            "localPath": "/notes/day-26/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aaa1daaa-8ab7-441a-bec2-9f0391a82ecc",
+            "localPath": "/notes/day-26/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f02c3838-c9ad-4836-8c89-ecad42e205b2",
+            "localPath": "/notes/day-26/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c222d290-4d10-4e63-b7d5-8317ae5ccdfc",
+            "localPath": "/notes/day-26/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/849a7fd3-457e-4310-be08-b4c8b4c8a8a2",
+            "localPath": "/notes/day-26/11.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "title": "OSPF Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "OSPF Part 2",
+        "file": "Day 27 - OSPF Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/453258a2-e724-4bf5-b07c-6c533dcef46c",
+            "localPath": "/notes/day-27/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/17adfd0e-8944-4016-93bd-98b82ceb8a66",
+            "localPath": "/notes/day-27/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ef8de0f8-c22d-4259-bf4c-6fc9894bae29",
+            "localPath": "/notes/day-27/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00196380-4452-4ec9-8cd9-b1949665a5d8",
+            "localPath": "/notes/day-27/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aba02fbc-174c-41a1-a8e3-0ffdda3a6cbd",
+            "localPath": "/notes/day-27/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fa9b91da-e0c3-42d9-8c0a-eb47991b1894",
+            "localPath": "/notes/day-27/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/70f3474f-f4bf-4194-b479-d7a65ad82505",
+            "localPath": "/notes/day-27/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4d5e5310-4680-4176-94ab-2d8015032d18",
+            "localPath": "/notes/day-27/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/34fa7cca-f837-432b-9296-d1be69a8869c",
+            "localPath": "/notes/day-27/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/600722df-4737-4a69-867e-662c03a6b4b4",
+            "localPath": "/notes/day-27/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4fc0fc23-ce00-4381-afef-259091b8f8ef",
+            "localPath": "/notes/day-27/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/daaa3a7b-ddd0-4ad0-ace7-056cbf2fbe32",
+            "localPath": "/notes/day-27/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0d9f9d7e-04fd-472c-8449-a4f12172c055",
+            "localPath": "/notes/day-27/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/05b6d3ee-8fdb-4f25-9214-557eeb9a53a6",
+            "localPath": "/notes/day-27/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ad7aafd6-9cd8-4259-bd32-aff7b5893b46",
+            "localPath": "/notes/day-27/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e953696d-283f-4676-8df2-9aff0418d78d",
+            "localPath": "/notes/day-27/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/915e31ee-4fee-455b-a947-229e0af4b182",
+            "localPath": "/notes/day-27/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/75c941ca-b6bd-45f0-9a85-c7e5baff4654",
+            "localPath": "/notes/day-27/18.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "title": "OSPF Part 3",
+    "parts": [
+      {
+        "part": "",
+        "title": "OSPF Part 3",
+        "file": "Day 28 - OSPF Part 3.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/697e7d43-b428-4fe3-a270-5fc1c9ad13d0",
+            "localPath": "/notes/day-28/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8f99053d-3501-4d1d-86a2-f859c62c160d",
+            "localPath": "/notes/day-28/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1ba5b6e1-dd4a-4277-8f33-f806e21302bc",
+            "localPath": "/notes/day-28/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cd98b06f-3730-4b2d-8dfe-a6387fdb66a1",
+            "localPath": "/notes/day-28/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e59e6217-0404-476d-9bcf-49e82c380b84",
+            "localPath": "/notes/day-28/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/82eb1f11-4aed-456b-b2b1-1679cae06743",
+            "localPath": "/notes/day-28/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/61e1c230-3926-40ae-917a-55fcf76caf64",
+            "localPath": "/notes/day-28/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/51d7d486-a810-4a69-8be2-804f667fca03",
+            "localPath": "/notes/day-28/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/02f6f3a8-dcbb-46cd-bb2e-47ceb84d10cc",
+            "localPath": "/notes/day-28/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c32af4a3-105c-451a-9641-0f7fc26e7f42",
+            "localPath": "/notes/day-28/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a448ef2-96f2-4371-bef1-520572ba5224",
+            "localPath": "/notes/day-28/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6f934097-30fb-4605-935d-08a29e53a476",
+            "localPath": "/notes/day-28/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bc5a756e-c65d-4585-ad3f-c0e29682c0eb",
+            "localPath": "/notes/day-28/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/232c8658-d129-49f4-9a37-76139ebe857e",
+            "localPath": "/notes/day-28/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8688e7ef-d166-4433-9f65-b918917f385f",
+            "localPath": "/notes/day-28/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/80b626ac-f368-4d86-85f4-dc80e3be5259",
+            "localPath": "/notes/day-28/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8f089c68-96e9-4cbf-a9c0-c93f74de4888",
+            "localPath": "/notes/day-28/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/06cab926-a458-4978-b754-b2253ee74762",
+            "localPath": "/notes/day-28/18.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "title": "First Hop Redundancy Protocols",
+    "parts": [
+      {
+        "part": "",
+        "title": "First Hop Redundancy Protocols",
+        "file": "Day 29 - First Hop Redundancy Protocols.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/32c286ce-e042-4cda-9067-c232a210ec81",
+            "localPath": "/notes/day-29/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2a1c5df8-d4fa-44fa-b850-a8fd6bb69388",
+            "localPath": "/notes/day-29/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5e54ee53-09bd-42a7-b89e-69892590913d",
+            "localPath": "/notes/day-29/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6a47dc71-544e-4e33-99cd-b6a8db90f56f",
+            "localPath": "/notes/day-29/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6f36cdf9-d002-48d6-ae5b-6fb899431b46",
+            "localPath": "/notes/day-29/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a5795fa0-d57b-4037-8945-a39da7fb2d15",
+            "localPath": "/notes/day-29/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4bd45dbc-fc51-4c45-818e-5274530accde",
+            "localPath": "/notes/day-29/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a5b5ee87-4c92-4b3e-9b98-3d0c09a1732d",
+            "localPath": "/notes/day-29/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/028b13d4-b258-4551-96ae-068adb931356",
+            "localPath": "/notes/day-29/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d2e5eb5f-d105-4788-a869-d9e65f53eca7",
+            "localPath": "/notes/day-29/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/65b999f6-eed8-45c3-89fe-bff749f40f11",
+            "localPath": "/notes/day-29/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/99107301-2619-4454-b104-8aed3780924d",
+            "localPath": "/notes/day-29/12.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "title": "TCP and UDP",
+    "parts": [
+      {
+        "part": "",
+        "title": "TCP and UDP",
+        "file": "Day 30 - TCP and UDP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b0309c1e-a283-428b-9d8b-c9c1568e6a58",
+            "localPath": "/notes/day-30/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2d8c6c74-24e5-4574-b454-bc694f056bec",
+            "localPath": "/notes/day-30/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/02d56940-33b6-40a8-8431-0a39c19bc66a",
+            "localPath": "/notes/day-30/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9fcb7294-da61-4fff-b483-c1da6a8d7b48",
+            "localPath": "/notes/day-30/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1f5b0753-b625-463b-9d6f-79bf5b2454dc",
+            "localPath": "/notes/day-30/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/877a8e35-2e2d-4cf4-af65-1a1834308ba9",
+            "localPath": "/notes/day-30/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3a0a9cff-8bc4-4c1f-a9b0-941807cf6f40",
+            "localPath": "/notes/day-30/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d8349049-7a5a-40a3-95fa-7ad86ec1049d",
+            "localPath": "/notes/day-30/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a1df1c41-df4f-4211-ac56-144280a2d3bf",
+            "localPath": "/notes/day-30/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f5f3f467-5b1f-4a30-9ef7-8a5c0de65139",
+            "localPath": "/notes/day-30/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fafc82c7-21a2-46cf-b82b-702b2d8c1d52",
+            "localPath": "/notes/day-30/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/773a7e94-50b1-4179-b2e6-0d45ec5c1b3d",
+            "localPath": "/notes/day-30/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/90fb3d62-5011-4970-9cf6-167cccfe3449",
+            "localPath": "/notes/day-30/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fcbef599-9277-4b06-8d59-2349ca70817a",
+            "localPath": "/notes/day-30/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9e1f0422-d027-4a06-a359-d47c5c39dba1",
+            "localPath": "/notes/day-30/15.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "title": "IPv6 Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "IPv6 Part 1",
+        "file": "Day 31 - IPv6 Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/df3e0c7f-5325-4c4c-9d88-197b588cdfe4",
+            "localPath": "/notes/day-31/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a23caee6-492b-4226-ba9f-7b3e44578fd4",
+            "localPath": "/notes/day-31/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1a7e0af8-4f19-483d-b75c-27fa452ce8e9",
+            "localPath": "/notes/day-31/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ceced09e-175f-452d-87e8-5b10af7621a1",
+            "localPath": "/notes/day-31/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/98fdf256-dbbf-4884-825a-6124251da6a7",
+            "localPath": "/notes/day-31/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3e6fe314-c87f-4116-bf37-7f3cfd8e17b4",
+            "localPath": "/notes/day-31/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7796f62c-5daa-4e3c-a029-2c42e8abfc6c",
+            "localPath": "/notes/day-31/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ee734193-9708-44a8-8702-c0d9d07afaad",
+            "localPath": "/notes/day-31/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a19192b2-fcd9-4280-95c4-281ef08ffa5e",
+            "localPath": "/notes/day-31/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/07c413b6-1577-47c3-963c-4ccca8e20820",
+            "localPath": "/notes/day-31/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ea5f5e40-1b4f-4fd8-942c-c17ca2535e35",
+            "localPath": "/notes/day-31/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/934a089e-6ec1-4297-b0da-154b8240af35",
+            "localPath": "/notes/day-31/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12448711-2636-4133-bed9-d655bedbd418",
+            "localPath": "/notes/day-31/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fa872c5a-4d39-4519-9248-f4f552539bb8",
+            "localPath": "/notes/day-31/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1703e18d-da7a-4ee9-850e-d4e4a59ec72a",
+            "localPath": "/notes/day-31/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c7e6fcec-ec8c-40df-86b6-72486e2a3165",
+            "localPath": "/notes/day-31/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7ee88c71-617f-4bfc-8220-a4ef5bbe89e3",
+            "localPath": "/notes/day-31/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c83977d3-678f-4922-9be2-f52c6a679d64",
+            "localPath": "/notes/day-31/18.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "title": "IPv6 Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "IPv6 Part 2",
+        "file": "Day 32 - IPv6 Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bee8f7bf-3877-4307-9ca7-863af19aae6c",
+            "localPath": "/notes/day-32/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d4e90146-8c71-4c6c-b5aa-a9077bde2caf",
+            "localPath": "/notes/day-32/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e6c6da0b-def4-4764-a0a1-3f64855f319f",
+            "localPath": "/notes/day-32/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bff1b2bc-9944-451a-972a-f8b3bd5f76ea",
+            "localPath": "/notes/day-32/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4c69d97a-a611-4a94-9e11-9016ec456819",
+            "localPath": "/notes/day-32/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c5552f0e-eca2-4069-a656-611b5c196402",
+            "localPath": "/notes/day-32/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6e6f8af9-ee53-4e0d-90ec-9e137b10c851",
+            "localPath": "/notes/day-32/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d74c4fb-ef52-4436-8285-77ab571f2964",
+            "localPath": "/notes/day-32/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e5efcdd7-5d7d-4020-a179-07ba267bf5ab",
+            "localPath": "/notes/day-32/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5d5f2d6e-3e21-4ab7-bf8e-dec5d12b6eed",
+            "localPath": "/notes/day-32/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/71729af9-6c02-49bd-b290-af7f5009bd6e",
+            "localPath": "/notes/day-32/11.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "title": "IPv6 Part 3",
+    "parts": [
+      {
+        "part": "",
+        "title": "IPv6 Part 3",
+        "file": "Day 33 - IPv6 Part 3.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5bba7262-60aa-4348-9b7a-55dc354f4ed3",
+            "localPath": "/notes/day-33/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eef6815b-405b-485d-884d-ff08bbbf16d3",
+            "localPath": "/notes/day-33/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4f981645-7488-4f0c-8ec5-d7c1b878acba",
+            "localPath": "/notes/day-33/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/88b9dde5-bc94-49ce-ba4a-b38c47f4670d",
+            "localPath": "/notes/day-33/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cc9010cb-eb67-4fcb-8c6a-7a0aa11c7057",
+            "localPath": "/notes/day-33/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/085bb9df-8015-4c2f-bfc8-2d6336436fe2",
+            "localPath": "/notes/day-33/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f7861fda-e893-4fd1-b5c3-5deed57de2f0",
+            "localPath": "/notes/day-33/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e1cc9b26-1a81-48fb-8538-77f97d456eff",
+            "localPath": "/notes/day-33/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e082920f-3a76-438d-b43d-8eac968dcd55",
+            "localPath": "/notes/day-33/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/90acb6ca-2703-47d1-907f-1878490c78f6",
+            "localPath": "/notes/day-33/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d01849d3-c031-45a0-8e31-efd9dba61df6",
+            "localPath": "/notes/day-33/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/52cf09e2-2b37-4319-a2b9-15213524530c",
+            "localPath": "/notes/day-33/12.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "title": "Standard Access Control Lists",
+    "parts": [
+      {
+        "part": "",
+        "title": "Standard Access Control Lists",
+        "file": "Day 34 - Standard Access Control Lists.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/92d663ec-33a8-4ba4-b0a7-5d3942a9b67e",
+            "localPath": "/notes/day-34/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2eb0c042-21d0-4a40-ade3-9715bd2b3bcb",
+            "localPath": "/notes/day-34/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a4a86a8e-f73c-476b-b0e5-15bfb4f4748d",
+            "localPath": "/notes/day-34/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6e4148e0-e908-4a44-9f23-358c9d7ade11",
+            "localPath": "/notes/day-34/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4856845e-80b2-45dc-b30c-cc3b170db69c",
+            "localPath": "/notes/day-34/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3e20e40c-6755-4638-9ef3-15fa747f93b6",
+            "localPath": "/notes/day-34/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eed38afa-f067-4153-80bb-b07c52a21e53",
+            "localPath": "/notes/day-34/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/94e9b58d-07f6-4ad6-9c92-b00c01ce311d",
+            "localPath": "/notes/day-34/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a8a10f5f-8e5c-4e19-981f-862bf94b2788",
+            "localPath": "/notes/day-34/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3b641f99-4c99-4d5f-a32b-1a626d1a02b4",
+            "localPath": "/notes/day-34/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/17a7d767-1052-4bc0-8a04-7278f16caeb6",
+            "localPath": "/notes/day-34/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bbdcff70-1fd4-46a4-a4c2-5d5485fe5695",
+            "localPath": "/notes/day-34/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/74ad9dd4-d56f-4845-83b1-44366b4b94f6",
+            "localPath": "/notes/day-34/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e5ed273d-1c24-4b78-884f-712e1cf6922a",
+            "localPath": "/notes/day-34/14.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "title": "Extended Access Control Lists",
+    "parts": [
+      {
+        "part": "",
+        "title": "Extended Access Control Lists",
+        "file": "Day 35 - Extended Access Control Lists.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d5bbb9d7-5499-43e0-9ac8-b173e5bb5c50",
+            "localPath": "/notes/day-35/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/73104e31-0630-4b2a-a328-29adc5ceb418",
+            "localPath": "/notes/day-35/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/724638f3-1044-4476-96de-cda39fb51315",
+            "localPath": "/notes/day-35/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a72df84e-262b-467c-a87e-b70699033076",
+            "localPath": "/notes/day-35/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f7f85684-6300-495d-bde9-1e1ffcead85e",
+            "localPath": "/notes/day-35/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8e27f6f1-794b-45be-ac67-20b3f563f551",
+            "localPath": "/notes/day-35/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41fb1df8-b368-4349-b33a-ba0f8c768435",
+            "localPath": "/notes/day-35/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1c5e3f13-900a-4be4-99ba-db86b0128f57",
+            "localPath": "/notes/day-35/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f6337620-5eb1-4ddc-837c-ae242a718f29",
+            "localPath": "/notes/day-35/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bbb38418-3276-485b-ba6b-5c4c7097d56f",
+            "localPath": "/notes/day-35/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c059d148-b685-49b2-81e0-518a6d66c25b",
+            "localPath": "/notes/day-35/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/03dd80be-1f0f-41ac-ae1a-bdb851579bb4",
+            "localPath": "/notes/day-35/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f7a11d7b-aeb6-4528-b5cc-62ff515fe33c",
+            "localPath": "/notes/day-35/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ddb40c27-b195-49fe-a12a-49e078166e30",
+            "localPath": "/notes/day-35/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/692f4a58-13d3-4c0a-8513-3dc76b014b65",
+            "localPath": "/notes/day-35/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cda064f2-b1ce-45ee-a660-04cdceb3514b",
+            "localPath": "/notes/day-35/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f596bca6-c06a-445e-84a3-8f8eb0c6baaf",
+            "localPath": "/notes/day-35/17.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "title": "CDP and LLDP",
+    "parts": [
+      {
+        "part": "",
+        "title": "CDP and LLDP",
+        "file": "Day 36 - CDP and LLDP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/65f39e9f-ae1a-42c6-8afb-5e79f939fe5d",
+            "localPath": "/notes/day-36/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a0552be-dbc7-4c7b-b011-e32dff75a57e",
+            "localPath": "/notes/day-36/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/26e180ec-da08-44d2-bb55-325fdc0c234f",
+            "localPath": "/notes/day-36/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00cd814e-0255-4fac-ac71-3e50054f813c",
+            "localPath": "/notes/day-36/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cd4fbedb-c12f-4e1e-8582-8db16985121f",
+            "localPath": "/notes/day-36/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/83ef9488-e82c-4453-ae6e-02575039d0f9",
+            "localPath": "/notes/day-36/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/393b2680-2304-4c8e-9180-88cc5fefbfd8",
+            "localPath": "/notes/day-36/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/25afc5ad-4d82-4472-b282-31ed2a65eae7",
+            "localPath": "/notes/day-36/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/78fab926-9fda-4c83-91eb-eda4bf4ec005",
+            "localPath": "/notes/day-36/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/32b11d7b-4050-422e-afd4-bec23e8db3a1",
+            "localPath": "/notes/day-36/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/85a46d24-5574-4400-bc03-6b0568294940",
+            "localPath": "/notes/day-36/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/26751ca8-ed54-4e5c-9927-8c6eb0e2e3f7",
+            "localPath": "/notes/day-36/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b5332838-d112-4556-bee0-c3716a3d4f89",
+            "localPath": "/notes/day-36/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2dd16e33-75a9-4e11-91aa-b507ed490e9b",
+            "localPath": "/notes/day-36/14.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "title": "NTP",
+    "parts": [
+      {
+        "part": "",
+        "title": "NTP",
+        "file": "Day 37 - NTP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0afc355a-a982-4caa-a470-e09070e9c74f",
+            "localPath": "/notes/day-37/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a49cc147-ddba-405d-8e70-745ae7434e5a",
+            "localPath": "/notes/day-37/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/33632e20-a4e9-40fd-aba0-527498cfb886",
+            "localPath": "/notes/day-37/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d0464c2-1abe-460a-93fb-dd4368c905a7",
+            "localPath": "/notes/day-37/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fa5d40c2-bccb-48e2-9f6b-c85ad721f37f",
+            "localPath": "/notes/day-37/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b72c898a-4746-49de-86db-c519964b3916",
+            "localPath": "/notes/day-37/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c9d24bfd-25b1-4c5d-a426-f2a8a2db108c",
+            "localPath": "/notes/day-37/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/104a5e27-0d5f-40fc-aea8-dbcf46c3e195",
+            "localPath": "/notes/day-37/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d9ef5a95-a102-4306-bc3d-269fc5fd1d9e",
+            "localPath": "/notes/day-37/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/591491d1-a5bd-4f99-b518-02e722f41e1a",
+            "localPath": "/notes/day-37/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3319f4c0-fb72-4486-b14c-4648c2be7338",
+            "localPath": "/notes/day-37/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/33557221-c045-4063-8ca0-9e8fb045ce52",
+            "localPath": "/notes/day-37/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/003bf28a-03fe-49a8-954c-728f8e79dbd9",
+            "localPath": "/notes/day-37/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e2b91988-9be4-419b-b0b3-ad4ac32ae5cc",
+            "localPath": "/notes/day-37/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/32146173-fa80-4926-9524-ad66de3f9a6b",
+            "localPath": "/notes/day-37/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6ee32d55-a33d-419c-9286-d1683f250d37",
+            "localPath": "/notes/day-37/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/453bd559-d88f-46c8-b4c9-cea958ef216d",
+            "localPath": "/notes/day-37/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6adb6092-0290-4ae9-961d-55d25ec1d3c7",
+            "localPath": "/notes/day-37/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aabee138-5cb3-4316-8411-8da38d6dd2d5",
+            "localPath": "/notes/day-37/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4501f436-3e52-48c4-b22c-a733547b8b98",
+            "localPath": "/notes/day-37/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bde14525-17e6-4d63-9d0b-b992c3dd7725",
+            "localPath": "/notes/day-37/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/21cac8d8-7c7f-41e1-8f0a-bfb6418c6085",
+            "localPath": "/notes/day-37/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9ead84f6-8645-489c-a30d-0b3c7ebf6ba1",
+            "localPath": "/notes/day-37/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a05e16e-cab9-429c-836e-e74a1007cbcb",
+            "localPath": "/notes/day-37/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bcbd2426-1745-437a-9ebd-fe80dce6b527",
+            "localPath": "/notes/day-37/25.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/038c5e31-587e-4a54-ae80-cc290a0ff805",
+            "localPath": "/notes/day-37/26.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/903a6aba-e99d-4ee6-a9c5-e077eed0592a",
+            "localPath": "/notes/day-37/27.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0b5928d9-6594-4f3d-8663-8f4f19d3245b",
+            "localPath": "/notes/day-37/28.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0aad6e81-5b7b-41ad-82b1-6c98690a9a4c",
+            "localPath": "/notes/day-37/29.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e68f0ab9-25f5-4e65-8e80-f07b15878f69",
+            "localPath": "/notes/day-37/30.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a0c27863-86d7-40e4-a935-6c73fce39439",
+            "localPath": "/notes/day-37/31.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d430e372-8480-4378-92e4-5e5ca06f2ac1",
+            "localPath": "/notes/day-37/32.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d8f54d79-8975-4dfe-b0c0-e4e2b44f7b31",
+            "localPath": "/notes/day-37/33.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2888ef4e-f53a-4ca3-ad34-0b04742edfd9",
+            "localPath": "/notes/day-37/34.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "title": "DNS",
+    "parts": [
+      {
+        "part": "",
+        "title": "DNS",
+        "file": "Day 38 - DNS.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/059c6fa4-674c-47ce-a08e-0714b21cb39e",
+            "localPath": "/notes/day-38/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b43b1d98-b510-4d05-be96-f706a3d090d1",
+            "localPath": "/notes/day-38/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7f56b6f1-12c6-4096-9f73-28c9f8cfd570",
+            "localPath": "/notes/day-38/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/71e5cd97-528c-435f-86d3-29d6ad2808b6",
+            "localPath": "/notes/day-38/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9d9cd65c-8a8b-45b3-8914-28a53013618f",
+            "localPath": "/notes/day-38/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/469431b3-e981-47cf-994d-642f737e79a0",
+            "localPath": "/notes/day-38/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/da36bc07-d834-4c5e-b7ab-71da025b912f",
+            "localPath": "/notes/day-38/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f8608c2f-840c-477d-9284-7060838f1f3e",
+            "localPath": "/notes/day-38/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/771b6bd4-abe4-41b7-afc2-3984ccc23407",
+            "localPath": "/notes/day-38/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ff56876a-3b80-482f-b73b-caa86e5d972f",
+            "localPath": "/notes/day-38/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f65a4118-ae59-4db5-8fc4-c83d39c3072d",
+            "localPath": "/notes/day-38/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/59743697-6347-41de-9359-ca7ef327af01",
+            "localPath": "/notes/day-38/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8e9c34c4-1a53-4ce4-a268-8a6d801d45e9",
+            "localPath": "/notes/day-38/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/306aa507-1523-43e5-ac48-251e8a75b5f8",
+            "localPath": "/notes/day-38/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cf0deb90-f8be-4f11-9373-2b7ef4715baf",
+            "localPath": "/notes/day-38/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6c3e7873-04c4-407e-a851-cb74a9f78eb9",
+            "localPath": "/notes/day-38/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "title": "DHCP",
+    "parts": [
+      {
+        "part": "",
+        "title": "DHCP",
+        "file": "Day 39 - DHCP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/81b1e260-d669-4944-aa7b-5b7e6a505233",
+            "localPath": "/notes/day-39/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8e7ff968-f47f-4877-88ec-451a9828905e",
+            "localPath": "/notes/day-39/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ca9253f6-3e97-42d8-9293-7b271488be78",
+            "localPath": "/notes/day-39/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b4659586-9e8b-482e-a492-fab9f979aa40",
+            "localPath": "/notes/day-39/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bd292766-0a22-4c0a-ac96-0262ba03d720",
+            "localPath": "/notes/day-39/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/13c9528b-8ecb-43e3-a3be-9993c03e1fa5",
+            "localPath": "/notes/day-39/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/46821c80-1fa1-435c-b71f-f2a81a2a415a",
+            "localPath": "/notes/day-39/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f9eb66a1-9c7e-4b5c-9393-9005f51ad172",
+            "localPath": "/notes/day-39/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/16e2b443-6ab6-49c4-bfde-2083c7b2185e",
+            "localPath": "/notes/day-39/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/de06e7a3-b011-48eb-a5c6-8a6295258fbc",
+            "localPath": "/notes/day-39/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/94febcd6-cd2b-4f6d-97db-69e33b1c1c4d",
+            "localPath": "/notes/day-39/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/70f7fc01-3222-4fec-8bd3-8b96cfbc086f",
+            "localPath": "/notes/day-39/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0f6e38bc-5eb0-4538-b0d1-e5795ee3af3a",
+            "localPath": "/notes/day-39/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3023a977-2477-42ec-8890-283ef326bad1",
+            "localPath": "/notes/day-39/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/543c77e8-326b-45c6-a149-2f3668dac3ff",
+            "localPath": "/notes/day-39/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a2f5cc4e-c949-4a8d-a985-29c6631c635e",
+            "localPath": "/notes/day-39/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3c0b188e-a120-499e-b089-18740d0d4559",
+            "localPath": "/notes/day-39/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/04c380f4-e1b4-46f3-89ab-1c89f16eed7a",
+            "localPath": "/notes/day-39/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5cac378b-2769-4da2-bd46-1bd93dd5d144",
+            "localPath": "/notes/day-39/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2cb89226-c24f-4cac-86f0-5cfb5ba16575",
+            "localPath": "/notes/day-39/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4e10257e-2ca8-466f-96fc-f4a02ab319a4",
+            "localPath": "/notes/day-39/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d1e1df72-85ef-4323-87f4-26cf14132bda",
+            "localPath": "/notes/day-39/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/353e553c-b4a5-4f18-818f-3d7a395491b3",
+            "localPath": "/notes/day-39/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41e4ab84-7d5d-42e6-93d7-4b982976dd16",
+            "localPath": "/notes/day-39/24.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "title": "SNMP",
+    "parts": [
+      {
+        "part": "",
+        "title": "SNMP",
+        "file": "Day 40 - SNMP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bfa13793-5bc7-4344-8592-f38ef3a64784",
+            "localPath": "/notes/day-40/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/632a83c5-27c8-4adc-8b08-079030c5f52c",
+            "localPath": "/notes/day-40/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aa59534d-01d5-404c-bdf6-e0fd92cf9d98",
+            "localPath": "/notes/day-40/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/656e27b1-86a4-42c7-a1a1-94309aa19610",
+            "localPath": "/notes/day-40/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/79180299-7d9a-4607-a592-7e7d8d090cd1",
+            "localPath": "/notes/day-40/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/25b15c81-931a-41a6-8033-dff07bfb5f15",
+            "localPath": "/notes/day-40/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e7d671f6-f2b0-468a-95a2-6678a52945c4",
+            "localPath": "/notes/day-40/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d8679ff7-5103-4e01-8f2e-25bb1bd25734",
+            "localPath": "/notes/day-40/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fe9266fc-12b8-41d3-8d8f-95f3f7b52ef6",
+            "localPath": "/notes/day-40/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/23e6fd0a-ed1e-441b-b7b0-457a4e55f645",
+            "localPath": "/notes/day-40/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/caf4624e-9ca2-4c8e-82fe-53db2499a38f",
+            "localPath": "/notes/day-40/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/96341ab3-1ed3-4dd4-903c-fa57ab1f83be",
+            "localPath": "/notes/day-40/12.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "title": "Syslog",
+    "parts": [
+      {
+        "part": "",
+        "title": "Syslog",
+        "file": "Day 41 - Syslog.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/44a405e5-6cb1-41e3-b408-470afcaccd7e",
+            "localPath": "/notes/day-41/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9ce46c98-a2b8-462b-ac6f-9bf13bfb3a99",
+            "localPath": "/notes/day-41/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/35413630-9194-4e63-8600-5847153e210e",
+            "localPath": "/notes/day-41/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a5321bcf-d149-4a3d-82a2-197426cf484a",
+            "localPath": "/notes/day-41/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bf0ed51a-c8b4-4c96-806a-ba90f829edd0",
+            "localPath": "/notes/day-41/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/350b34e5-8c87-417a-9e8d-fee7d3e57814",
+            "localPath": "/notes/day-41/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/09acecd5-b25b-4585-80da-950d69e284ad",
+            "localPath": "/notes/day-41/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e1f9a979-eb27-47a7-af19-6496c74a4476",
+            "localPath": "/notes/day-41/08.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "title": "SSH",
+    "parts": [
+      {
+        "part": "",
+        "title": "SSH",
+        "file": "Day 42 - SSH.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9609b0af-0fb1-4563-89e4-82b58b29325e",
+            "localPath": "/notes/day-42/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/04588b3a-3640-41af-b19e-41768f63b2bc",
+            "localPath": "/notes/day-42/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/64a9e983-f353-4670-8a99-1e22129eb661",
+            "localPath": "/notes/day-42/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9dffe7fb-4fa4-4ee9-90bf-d27461bb5190",
+            "localPath": "/notes/day-42/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e077b5fd-3130-4fb0-9b17-d28bdef665df",
+            "localPath": "/notes/day-42/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/441c38b7-4b79-4c80-8eca-0463960124b6",
+            "localPath": "/notes/day-42/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/73bd5a86-32da-4ec6-b385-fe5425a72808",
+            "localPath": "/notes/day-42/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/04e9072f-ccde-476d-a84d-3034e0b39d19",
+            "localPath": "/notes/day-42/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bb6d358f-e742-434b-835c-5c7cd762abdb",
+            "localPath": "/notes/day-42/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bb2e760b-90c3-42a7-93f6-0ccc7e472d00",
+            "localPath": "/notes/day-42/10.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "title": "FTP and TFTP",
+    "parts": [
+      {
+        "part": "",
+        "title": "FTP and TFTP",
+        "file": "Day 43 - FTP and TFTP.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c3f8288f-cc21-476b-ab36-685fa843f947",
+            "localPath": "/notes/day-43/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6b8f914e-0d8f-4cfd-bbbb-3552b5cebb3e",
+            "localPath": "/notes/day-43/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d6634813-5132-4fd8-a712-7bc7b4ea21db",
+            "localPath": "/notes/day-43/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5976c631-4cba-4449-a2b4-912f90cb66e1",
+            "localPath": "/notes/day-43/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8ff1d9a5-785b-4fb4-86a4-766c1107812f",
+            "localPath": "/notes/day-43/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/49909dbc-1ed5-425b-8958-03fcaf5b9eab",
+            "localPath": "/notes/day-43/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5872df1c-b97f-4f61-b0da-6a06e7f69f1a",
+            "localPath": "/notes/day-43/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e7c11655-61be-40f0-943c-8c51998dc2e2",
+            "localPath": "/notes/day-43/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eb6e12b6-3c34-4e05-93cb-e4368764da74",
+            "localPath": "/notes/day-43/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/746859c5-d89d-42f5-b198-d0cba7f3682d",
+            "localPath": "/notes/day-43/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d131b08c-572d-46b3-8910-0d423b85dc94",
+            "localPath": "/notes/day-43/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f0ce7ea9-115e-4db8-9baf-55ee1bf0d548",
+            "localPath": "/notes/day-43/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9be3610d-3e22-476f-ab90-117ba7d93cf0",
+            "localPath": "/notes/day-43/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/604528f7-af5d-44a4-a877-c9d82d7910d1",
+            "localPath": "/notes/day-43/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0e9c1dc5-0dce-4cbb-b584-0509c2119f63",
+            "localPath": "/notes/day-43/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e5f525cd-6e98-4501-9e7c-1c1f4af1d23e",
+            "localPath": "/notes/day-43/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "title": "NAT (Static) Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "NAT (Static) Part 1",
+        "file": "Day 44 - NAT (Static) Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c774460a-0479-40ed-ac62-1e9820960943",
+            "localPath": "/notes/day-44/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/11cbc222-4b2d-4283-9a8f-86cfff2e109d",
+            "localPath": "/notes/day-44/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/40867b28-66ff-4182-be97-8495a4c2de23",
+            "localPath": "/notes/day-44/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b77177cc-f6e3-434f-87e0-fb5d0fe14c90",
+            "localPath": "/notes/day-44/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/daac56f4-5af8-482c-9d1d-63a0fb3bdcb1",
+            "localPath": "/notes/day-44/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6dceb3c2-39d6-4299-b08d-90cbddb8d6b3",
+            "localPath": "/notes/day-44/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1b0d6780-56d8-4ea0-870b-abb65d3a6e66",
+            "localPath": "/notes/day-44/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/add755f6-2d2c-4fe8-aae1-6d1aeecb6ea2",
+            "localPath": "/notes/day-44/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4266d928-0970-4386-82d7-159cc2b02df6",
+            "localPath": "/notes/day-44/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2e70576f-3879-4ba6-8ffa-307fd0c243c9",
+            "localPath": "/notes/day-44/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/061f4c43-e755-41e8-b8b4-9e31e0723a19",
+            "localPath": "/notes/day-44/11.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "title": "NAT (Dynamic) Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "NAT (Dynamic) Part 2",
+        "file": "Day 45 - NAT (Dynamic) Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/60ba15dd-ee70-4bd9-b9a7-febf3ebbcd10",
+            "localPath": "/notes/day-45/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/09de8e06-249c-4185-9d09-ca5fc1435f5a",
+            "localPath": "/notes/day-45/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/98fe2d7d-345c-4d6b-9772-4b152f9bd7a3",
+            "localPath": "/notes/day-45/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/59c01575-b42f-475b-9502-2f9ed490ca8d",
+            "localPath": "/notes/day-45/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/59e68f3b-8acc-4d7e-8d8e-f930dec3be5f",
+            "localPath": "/notes/day-45/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6694689a-4880-497c-a1f6-838003810f0c",
+            "localPath": "/notes/day-45/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5b656147-f61c-4313-9a7e-34bec3ae6fbf",
+            "localPath": "/notes/day-45/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/04951fde-f130-43f8-b2ce-05eba6382329",
+            "localPath": "/notes/day-45/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/99bb39f3-2ea7-44d2-929e-223755726882",
+            "localPath": "/notes/day-45/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8f720b58-9700-4908-bd8d-a1846191854b",
+            "localPath": "/notes/day-45/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2a1acc30-658c-4479-9984-9c620b5e6ce3",
+            "localPath": "/notes/day-45/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/088db6f4-a695-4765-b435-2f20a5e16c9e",
+            "localPath": "/notes/day-45/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a3990ff-c58e-44a9-928d-e534f0cff690",
+            "localPath": "/notes/day-45/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/557d0217-80d2-4423-ba6a-041703568e13",
+            "localPath": "/notes/day-45/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cae56ec7-38b5-4053-beda-ff670083718e",
+            "localPath": "/notes/day-45/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fe0655bb-4020-4ddc-bec4-b2fb198e2314",
+            "localPath": "/notes/day-45/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "title": "QoS (Voice VLAN) Part 1",
+    "parts": [
+      {
+        "part": "",
+        "title": "QoS (Voice VLAN) Part 1",
+        "file": "Day 46 - QoS (Voice VLAN) Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0bba51c0-af57-49e4-ae29-fca2a1079a34",
+            "localPath": "/notes/day-46/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12a1bfa5-036a-4eb6-b165-23fc8209a1f8",
+            "localPath": "/notes/day-46/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b7c5b7e6-fa79-4405-b72f-b609ab56f216",
+            "localPath": "/notes/day-46/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fc26e9dd-e19e-43cc-9f2a-4022b47f98b4",
+            "localPath": "/notes/day-46/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4229e398-a50e-487c-adf3-66b235ea9189",
+            "localPath": "/notes/day-46/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/59914c0d-2c0e-4952-a4af-1f7ada02002d",
+            "localPath": "/notes/day-46/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9717fb1e-9129-41f9-90bb-613c2bdee460",
+            "localPath": "/notes/day-46/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8fe2eb15-49be-4f63-9f6f-79c0d5fe052f",
+            "localPath": "/notes/day-46/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8a21a767-5a93-42bd-a8d4-52453f8a7341",
+            "localPath": "/notes/day-46/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8909efdb-bbbd-4f50-b412-7abe12a3bcef",
+            "localPath": "/notes/day-46/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/29ed6306-a6aa-46ba-af2f-5ebcd383d1d7",
+            "localPath": "/notes/day-46/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/15de2fcd-5711-4014-8185-9975b2ce8a0d",
+            "localPath": "/notes/day-46/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1d22afa7-91aa-4e86-9c5f-ad9506dcb44c",
+            "localPath": "/notes/day-46/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b75c2cac-043c-4df6-a1d6-f26d9110630a",
+            "localPath": "/notes/day-46/14.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "title": "QoS Part 2",
+    "parts": [
+      {
+        "part": "",
+        "title": "QoS Part 2",
+        "file": "Day 47 - QoS Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2d2037b6-6992-4758-a1cb-5df0f939b153",
+            "localPath": "/notes/day-47/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/af191e31-082d-43c0-ab76-225d4dd2e354",
+            "localPath": "/notes/day-47/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/07a1cbb3-d034-4a9b-accc-59e7f738452f",
+            "localPath": "/notes/day-47/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3323ff23-96a5-45f4-abde-893d72a4021f",
+            "localPath": "/notes/day-47/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ffec398b-7b0a-47a1-9758-a7a14daf6aa0",
+            "localPath": "/notes/day-47/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1b0ca3ca-fc8d-4225-9368-64c8ff9587da",
+            "localPath": "/notes/day-47/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/48a63948-81b9-43d5-a108-34525a381533",
+            "localPath": "/notes/day-47/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/26f6bc76-6b33-40f0-9327-022b4816d280",
+            "localPath": "/notes/day-47/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12cf77c0-f139-494c-ab8b-d765a73a92f4",
+            "localPath": "/notes/day-47/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/407ab29c-678d-4a38-8e8e-2a6f904b4d94",
+            "localPath": "/notes/day-47/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d6b2dac7-fefc-409b-8136-f34df165dd23",
+            "localPath": "/notes/day-47/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6543afb5-9aba-4d91-9d61-233c2c67958d",
+            "localPath": "/notes/day-47/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fae89ed7-7229-4632-b3de-5415a36ad267",
+            "localPath": "/notes/day-47/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a7440ed0-70d8-48c2-b83d-dcb4e169fade",
+            "localPath": "/notes/day-47/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0d2d9ba8-fecc-47a8-9cee-02ae5a7a30e9",
+            "localPath": "/notes/day-47/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/05fa1552-e305-4e2d-b6aa-db0c8cbed3f7",
+            "localPath": "/notes/day-47/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/be10edd7-a4e3-4df6-a94f-b9e1b1c9e304",
+            "localPath": "/notes/day-47/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d7619e44-1ffd-4613-bbad-f2ff19ff6d2a",
+            "localPath": "/notes/day-47/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cdcdc302-9dbe-4dd8-9184-72d1f501bc1a",
+            "localPath": "/notes/day-47/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/606ad681-fad4-4f23-96bf-bd7dde91eaf4",
+            "localPath": "/notes/day-47/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5dbfd417-097c-4107-a5e1-b5476f423b15",
+            "localPath": "/notes/day-47/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/56bfe184-5bdf-4b8f-8851-756766456bf9",
+            "localPath": "/notes/day-47/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eee24cef-c67a-42de-9fa0-9351cab56354",
+            "localPath": "/notes/day-47/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2b544243-3a2e-4721-bf1f-4636ec4085a7",
+            "localPath": "/notes/day-47/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/09771d78-4570-4300-97e1-adba77fe28b4",
+            "localPath": "/notes/day-47/25.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "title": "Security Fundamentals",
+    "parts": [
+      {
+        "part": "",
+        "title": "Security Fundamentals",
+        "file": "Day 48 - Security Fundamentals.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5b04eea4-c53a-48b7-9683-952c9b27c9db",
+            "localPath": "/notes/day-48/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fc394c8d-33f4-4fd4-84a0-3e49caa9c158",
+            "localPath": "/notes/day-48/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c539c50b-1be0-42f9-8ce3-fbeb47ea2034",
+            "localPath": "/notes/day-48/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/34ca977d-9884-4aeb-b99a-9f3677ba17fa",
+            "localPath": "/notes/day-48/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/86cee6cd-845a-4732-bfec-4cfe18101322",
+            "localPath": "/notes/day-48/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/07ebfebd-0686-436a-8990-853e3fee4377",
+            "localPath": "/notes/day-48/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6e63b09d-a768-4cb3-ac06-87ad41d45c38",
+            "localPath": "/notes/day-48/07.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "title": "Port Security",
+    "parts": [
+      {
+        "part": "",
+        "title": "Port Security",
+        "file": "Day 49 - Port Security.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/92f4ce9b-8fb4-4d57-b200-f41c7d5236ee",
+            "localPath": "/notes/day-49/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0b6e8053-6819-4e02-ae28-4699a5c9c92d",
+            "localPath": "/notes/day-49/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b00765c2-f3a1-45be-8ed4-0a8dab68e43e",
+            "localPath": "/notes/day-49/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/787959b1-ffad-451d-ac65-11ea9a99db2d",
+            "localPath": "/notes/day-49/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9a6dd39d-130e-411b-be46-ecfe93420813",
+            "localPath": "/notes/day-49/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f071f447-a6ef-4ee6-8a40-2bde94030993",
+            "localPath": "/notes/day-49/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/706736d4-ee7c-42b2-b424-6cc30eb50905",
+            "localPath": "/notes/day-49/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6eb0d808-a989-4261-9b39-1ac9e1bf1460",
+            "localPath": "/notes/day-49/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41d54ef0-7391-473e-9b51-87f44b9e3f3c",
+            "localPath": "/notes/day-49/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/819f00b9-9694-442d-8459-8018f4277e45",
+            "localPath": "/notes/day-49/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/20d17f97-056e-4e76-8566-bb49c10bb9e1",
+            "localPath": "/notes/day-49/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4454fedf-f942-4b0d-9b6f-074765de653d",
+            "localPath": "/notes/day-49/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/93f11517-9d97-4e52-89ad-a0e590bca702",
+            "localPath": "/notes/day-49/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/10d591f9-334c-4e3b-889e-16030c36c445",
+            "localPath": "/notes/day-49/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c9123729-541c-4363-ba19-d8e49f75c6c5",
+            "localPath": "/notes/day-49/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/716ce91d-d1bb-4f12-a8fd-226b65f22569",
+            "localPath": "/notes/day-49/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "title": "DHCP Snooping",
+    "parts": [
+      {
+        "part": "",
+        "title": "DHCP Snooping",
+        "file": "Day 50 - DHCP Snooping.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9ed71d09-d94c-4fc9-ad87-1b31acfdd132",
+            "localPath": "/notes/day-50/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9d7d23a6-9d54-4234-a07e-a5caea136c94",
+            "localPath": "/notes/day-50/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/33dfbb8b-2b78-4700-b4ab-0dd95fc03eed",
+            "localPath": "/notes/day-50/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d0cd7a5c-9ff4-4ab7-bec6-4edec4ea2646",
+            "localPath": "/notes/day-50/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1573bcb7-6fa8-46d7-8cb8-46e30bac559d",
+            "localPath": "/notes/day-50/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/729466dc-9432-47d2-8799-652fa064b058",
+            "localPath": "/notes/day-50/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8d6cacb8-ffd8-4cf0-bd96-fe9978377989",
+            "localPath": "/notes/day-50/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bb11e4fd-a340-4dd3-a6f5-3cd280fc5a13",
+            "localPath": "/notes/day-50/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6586df19-5a58-4ca3-a316-bd0aeb2ce67c",
+            "localPath": "/notes/day-50/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/83c324aa-baa0-4ae1-82ac-157e503e048a",
+            "localPath": "/notes/day-50/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2efc6edd-21fd-4c1a-bb11-9c1f761e1d32",
+            "localPath": "/notes/day-50/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/84f1c3f2-9ad1-4367-97f3-95dab053b30c",
+            "localPath": "/notes/day-50/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5c4b547e-c588-4d62-8098-76902199a131",
+            "localPath": "/notes/day-50/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dda50cf6-ae86-47ec-9b4f-104669697f64",
+            "localPath": "/notes/day-50/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7e59cc5a-bf8e-482d-848d-5bfa0540c74b",
+            "localPath": "/notes/day-50/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/308e32fa-52bd-4ee4-9356-f14e65416e17",
+            "localPath": "/notes/day-50/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "title": "Dynamic ARP Inspection",
+    "parts": [
+      {
+        "part": "",
+        "title": "Dynamic ARP Inspection",
+        "file": "Day 51 - Dynamic ARP Inspection.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/02da32ef-654c-4755-abcd-ea8230df4029",
+            "localPath": "/notes/day-51/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/29744383-746e-47be-8220-ba1a641a7a11",
+            "localPath": "/notes/day-51/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6848c2b5-e866-4023-9ad9-c18f63aa6bb5",
+            "localPath": "/notes/day-51/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aae80c8f-2673-4c04-a206-9b646f5c1f08",
+            "localPath": "/notes/day-51/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/060f3d3a-b2fd-46a1-8b3c-7a6839985c87",
+            "localPath": "/notes/day-51/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4a91bd7b-626a-4d64-b69a-308d65bbdda4",
+            "localPath": "/notes/day-51/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/774765fa-4918-4cd9-bb64-57130968c359",
+            "localPath": "/notes/day-51/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e64a568e-e5c6-442b-98f7-4fe829ff7519",
+            "localPath": "/notes/day-51/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6400e059-2c8c-4369-827d-7774fddd57eb",
+            "localPath": "/notes/day-51/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0e6b780a-16ef-466a-bfd3-8dd2cdace4ad",
+            "localPath": "/notes/day-51/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1f109b81-9c9b-4acd-9557-0b652ba29b8d",
+            "localPath": "/notes/day-51/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/dd78740a-4f41-43aa-8ed2-3fa574acc0f9",
+            "localPath": "/notes/day-51/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cf121a75-45b2-4e2d-a35f-320e3f5491fa",
+            "localPath": "/notes/day-51/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/582feed0-1915-4f59-b3b9-9db37854c6e1",
+            "localPath": "/notes/day-51/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/684e694a-5b0a-4f85-b135-b288a8c4c6ec",
+            "localPath": "/notes/day-51/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4cb7dc28-b09d-4a98-8d43-aca2cdf6180b",
+            "localPath": "/notes/day-51/16.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "title": "LAN Architectures",
+    "parts": [
+      {
+        "part": "",
+        "title": "LAN Architectures",
+        "file": "Day 52 - LAN Architectures.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8aeb545d-3cc0-44bf-a01e-b7e5d47deaf2",
+            "localPath": "/notes/day-52/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cb2d12af-cf17-4ffe-a637-148014d20753",
+            "localPath": "/notes/day-52/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/01ed7fe5-317b-45c7-8baa-0cc74e502433",
+            "localPath": "/notes/day-52/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4592f4d8-5550-4428-923c-c805d2ca476f",
+            "localPath": "/notes/day-52/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4fa26aec-536a-4ad8-8f39-e94dacc4cb3c",
+            "localPath": "/notes/day-52/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/72018e4f-113e-4921-8dc4-05079c590ee1",
+            "localPath": "/notes/day-52/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c8326214-80e0-4702-a1c3-6dd2fbafb6e9",
+            "localPath": "/notes/day-52/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8b94c8e9-813b-40e0-bcd1-b27d73da31e8",
+            "localPath": "/notes/day-52/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d5c1a677-38ff-425f-b91a-65a8fa37c377",
+            "localPath": "/notes/day-52/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/633cee0a-8952-4b27-91a3-8653bb8e353c",
+            "localPath": "/notes/day-52/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7e2ff784-d16f-4606-a186-c73223bf5582",
+            "localPath": "/notes/day-52/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/73cbe190-f589-4307-8ce4-e3de8af2f1d5",
+            "localPath": "/notes/day-52/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c9edf179-f333-4fec-9e95-ee291b5eb84c",
+            "localPath": "/notes/day-52/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d606552-8939-41c1-ad85-13face1d27f5",
+            "localPath": "/notes/day-52/14.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "title": "WAN Architectures",
+    "parts": [
+      {
+        "part": "",
+        "title": "WAN Architectures",
+        "file": "Day 53 - WAN Architectures.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/57575fad-883d-4999-a56d-a77fa1542976",
+            "localPath": "/notes/day-53/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cfc23064-a133-445a-b854-e044828eca7d",
+            "localPath": "/notes/day-53/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/022ccdbd-7ce9-41fd-9f99-9e9c6dcb9f76",
+            "localPath": "/notes/day-53/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/38eff264-7ed4-43fd-943b-47e9e1ce995e",
+            "localPath": "/notes/day-53/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/77dd5503-8b29-4919-8747-6dd80eec28fa",
+            "localPath": "/notes/day-53/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/166bff5b-d977-48dc-9a74-b9a523b91e1b",
+            "localPath": "/notes/day-53/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2b3d8d6e-3501-4d54-a6f8-5a05c9140d24",
+            "localPath": "/notes/day-53/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b0b19dfd-e417-40ce-ac36-ce0ace8484cc",
+            "localPath": "/notes/day-53/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cc5c9508-a2b0-4fe7-9c83-6c03e7d2d861",
+            "localPath": "/notes/day-53/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c6e6e60d-2a96-415e-82a2-a090c38a68a3",
+            "localPath": "/notes/day-53/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a708b6b4-6de5-4a72-8c77-13f569f4c2d5",
+            "localPath": "/notes/day-53/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a33bb999-83bc-49a8-ad37-e7ca91fcb954",
+            "localPath": "/notes/day-53/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/af770f82-a55c-4af5-af7b-5708b39833c4",
+            "localPath": "/notes/day-53/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b17c6149-90b2-4bc7-beb7-c53698d588a0",
+            "localPath": "/notes/day-53/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d41295a9-af54-4cd5-acc8-4b60c39c40c2",
+            "localPath": "/notes/day-53/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/09c7da0c-debe-453e-822c-b97c0b8658ef",
+            "localPath": "/notes/day-53/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3dfd6b86-28bb-489d-931b-5cc74669c1ac",
+            "localPath": "/notes/day-53/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/939ce5af-5ffc-44da-96fc-def2ca99ecae",
+            "localPath": "/notes/day-53/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00c33e7f-2b28-4a33-908d-7aceff1e4092",
+            "localPath": "/notes/day-53/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7a621160-10d4-4e14-868b-3c23f6bb0a64",
+            "localPath": "/notes/day-53/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f4a77cb7-9d42-4daa-9a25-630c0fb260cf",
+            "localPath": "/notes/day-53/21.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "title": "Virtualization and Cloud",
+    "parts": [
+      {
+        "part": "a",
+        "title": "Virtualization and Cloud Part 1",
+        "file": "Day 54a - Virtualization and Cloud Part 1.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/365cde17-88c6-4149-91f2-d67c79590aec",
+            "localPath": "/notes/day-54/a01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/62a40737-7451-4b38-a5bd-abd9367cbd40",
+            "localPath": "/notes/day-54/a02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/25a29935-a56d-4ffe-b9e4-15c5c50bca46",
+            "localPath": "/notes/day-54/a03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f0f5f886-7924-46fc-addf-6916f0d2b2c9",
+            "localPath": "/notes/day-54/a04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7bf3f22c-a7b8-41bf-bc1e-8c128a41f20f",
+            "localPath": "/notes/day-54/a05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/746a4f38-01b9-49cf-8dd9-5522b4cabf7b",
+            "localPath": "/notes/day-54/a06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a3f0e08a-3207-4a69-aa81-d4142d6735a3",
+            "localPath": "/notes/day-54/a07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5bcfedb7-3ab6-462a-a089-09884d220ab7",
+            "localPath": "/notes/day-54/a08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e3886b6b-4ed8-4358-ba47-e2f50378c53d",
+            "localPath": "/notes/day-54/a09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f8144a61-0d7f-4928-9e47-73fb969e0b4a",
+            "localPath": "/notes/day-54/a10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b8953a31-3861-41ef-99df-62a49b97610a",
+            "localPath": "/notes/day-54/a11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1c9008e9-205b-4ca8-8236-fc0b02c3addc",
+            "localPath": "/notes/day-54/a12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/94e9c895-9538-4664-93db-085f013ee9fb",
+            "localPath": "/notes/day-54/a13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/14f910cf-b6e2-4f75-8959-4589d2592e1c",
+            "localPath": "/notes/day-54/a14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/671747bb-6908-47bb-b9c8-47f2df82c821",
+            "localPath": "/notes/day-54/a15.png"
+          }
+        ]
+      },
+      {
+        "part": "b",
+        "title": "Virtualization (Containers) Part 2",
+        "file": "Day 54b - Virtualization (Containers) Part 2.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/bfc801ca-a603-4957-a67c-316fb72e25cb",
+            "localPath": "/notes/day-54/b01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/da1b653d-f5f2-42d3-8088-dd3daa430913",
+            "localPath": "/notes/day-54/b02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5ed6704c-f332-49bf-8ff9-ad17a7f74b76",
+            "localPath": "/notes/day-54/b03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4f350818-f030-46fe-8850-f2e633d22bfa",
+            "localPath": "/notes/day-54/b04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/07083826-c7b0-45c1-aefe-e05f63d7acfd",
+            "localPath": "/notes/day-54/b05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/98a4075d-ab70-4579-ba10-c129e935ca22",
+            "localPath": "/notes/day-54/b06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/128a8574-a555-4a3e-9e9c-62f33df2d34d",
+            "localPath": "/notes/day-54/b07.png"
+          }
+        ]
+      },
+      {
+        "part": "c",
+        "title": "Virtualization (VRF) Part 3",
+        "file": "Day 54c - Virtualization (VRF) Part 3.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e122f3c6-290f-4f33-a31d-f308f12140a3",
+            "localPath": "/notes/day-54/c01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fec7669b-8868-4529-81fa-6f52e07ff6e4",
+            "localPath": "/notes/day-54/c02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/624ebfc0-c7c0-498d-a00b-c19e2738585a",
+            "localPath": "/notes/day-54/c03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cbe724be-4497-4976-9927-18ff5c71a4c7",
+            "localPath": "/notes/day-54/c04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f29dd935-0ec7-4756-b24a-fc44391254c0",
+            "localPath": "/notes/day-54/c05.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "title": "Wireless Fundamentals",
+    "parts": [
+      {
+        "part": "",
+        "title": "Wireless Fundamentals",
+        "file": "Day 55 - Wireless Fundamentals.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f1adc053-b4e7-4779-b497-d17fb8caa973",
+            "localPath": "/notes/day-55/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d266279-5342-478e-8001-0146a016296b",
+            "localPath": "/notes/day-55/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9ef52c86-66ef-46fb-872e-cb76f0fb8d83",
+            "localPath": "/notes/day-55/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d57a94df-4e82-46f2-8045-de01f7a293f1",
+            "localPath": "/notes/day-55/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9c807832-6feb-40ed-81aa-f9d7337da241",
+            "localPath": "/notes/day-55/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/abd44fc3-ec6f-484c-8c81-a2de38c26999",
+            "localPath": "/notes/day-55/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9474adb8-3fc0-44ac-b480-c846cec21e9a",
+            "localPath": "/notes/day-55/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f7daa2ac-16a7-41f2-8ba4-a7c214c7e96b",
+            "localPath": "/notes/day-55/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/448e6f45-6ef1-4c53-abf7-dd843e8d7a84",
+            "localPath": "/notes/day-55/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/28ea49c0-c2ef-40f3-a703-884c612c16f7",
+            "localPath": "/notes/day-55/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9ddcffd6-c623-4d75-bee0-d4f01d871085",
+            "localPath": "/notes/day-55/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/caf70e36-75b2-4fe5-a2e2-2641fad4d7e0",
+            "localPath": "/notes/day-55/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/005d246e-d2d2-491e-8d1e-f2fb5afbb664",
+            "localPath": "/notes/day-55/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8bce5d9c-6261-4180-a25c-20007a27f433",
+            "localPath": "/notes/day-55/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/424d3b31-2bbe-454d-973c-fdf1534adfdd",
+            "localPath": "/notes/day-55/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5fe65388-0045-4f35-bd8b-5325e2779ab2",
+            "localPath": "/notes/day-55/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ef259f45-ead1-45f3-8ad3-5f343a763988",
+            "localPath": "/notes/day-55/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4a2ccc9e-c3c2-43db-b0b2-c704d5da223e",
+            "localPath": "/notes/day-55/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1604f0ea-8a93-4922-a78d-fe55e836ba9a",
+            "localPath": "/notes/day-55/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/adf9deae-693c-4f1b-8d6d-c4fbfc356418",
+            "localPath": "/notes/day-55/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5667abba-dc3f-4571-a11a-43b3e8cf4304",
+            "localPath": "/notes/day-55/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7973107f-7f2a-47de-9272-186040b038b5",
+            "localPath": "/notes/day-55/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/85cffc3f-3e76-4a55-9810-254135162a82",
+            "localPath": "/notes/day-55/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/36b421fd-ba81-4230-8c67-72b0b88aae8a",
+            "localPath": "/notes/day-55/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7bac6988-f3af-4ee3-8046-7d926069934c",
+            "localPath": "/notes/day-55/25.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "title": "Wireless Architectures",
+    "parts": [
+      {
+        "part": "",
+        "title": "Wireless Architectures",
+        "file": "Day 56 - Wireless Architectures.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7b459483-7156-44cf-9ee7-f9391e476636",
+            "localPath": "/notes/day-56/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/568d795d-41ee-4afd-908d-858297e89c6c",
+            "localPath": "/notes/day-56/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/57faecbb-36a6-424d-b019-52994a5740db",
+            "localPath": "/notes/day-56/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c154bcad-ae81-4fb8-9acf-56913dffaf04",
+            "localPath": "/notes/day-56/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/10917a40-468a-4ea6-8253-bf229d612af1",
+            "localPath": "/notes/day-56/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/aa2d7d98-2d6f-46b6-ab38-7acc96c8dc52",
+            "localPath": "/notes/day-56/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/940a414b-208f-408c-a3e2-37e3bfbb0d32",
+            "localPath": "/notes/day-56/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8bd00a94-f965-4257-af46-82be67850feb",
+            "localPath": "/notes/day-56/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/93e62771-c2d5-4003-9ade-0d5be855ea66",
+            "localPath": "/notes/day-56/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/922eac1f-6c62-4926-89bb-a447f8be2edd",
+            "localPath": "/notes/day-56/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9d87546c-6397-48d2-941c-007f5e6440aa",
+            "localPath": "/notes/day-56/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fc6a79f2-a7b5-4b5a-99d6-b94238362e8e",
+            "localPath": "/notes/day-56/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4ff02aee-83c9-4a56-8a71-a14e20e8bf3c",
+            "localPath": "/notes/day-56/13.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "title": "Wireless Security",
+    "parts": [
+      {
+        "part": "",
+        "title": "Wireless Security",
+        "file": "Day 57 - Wireless Security.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/00d34740-8da7-428d-8b36-f8998ec2f0cd",
+            "localPath": "/notes/day-57/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b632c321-36e5-4a03-b08c-d0a2c2e215da",
+            "localPath": "/notes/day-57/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/86e4f243-1692-41a6-9b15-6b2e99942e50",
+            "localPath": "/notes/day-57/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5565e646-696f-4245-b1e5-d728fe0e3380",
+            "localPath": "/notes/day-57/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0b9ecce2-4219-42d0-8275-086b92134cda",
+            "localPath": "/notes/day-57/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f17d6f7b-9f87-4cb2-be24-5d8c95dc0cfc",
+            "localPath": "/notes/day-57/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0f9babe7-d86f-49c8-b732-20f31ea26437",
+            "localPath": "/notes/day-57/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c6c57595-fd75-4761-8760-29fab8dbf698",
+            "localPath": "/notes/day-57/08.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "title": "Wireless Configuration",
+    "parts": [
+      {
+        "part": "",
+        "title": "Wireless Configuration",
+        "file": "Day 58 - Wireless Configuration.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1e8ed6b8-1183-42e7-9584-d5504c52987a",
+            "localPath": "/notes/day-58/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4dec4c60-945e-4f2c-b7db-3028269ec441",
+            "localPath": "/notes/day-58/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3b1c79a6-f8c5-496b-a0b8-d561ff87880f",
+            "localPath": "/notes/day-58/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eae43f12-aa95-41a3-8a5d-26ffc5e83262",
+            "localPath": "/notes/day-58/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ade4dc29-3017-4d79-99d2-d895968bf741",
+            "localPath": "/notes/day-58/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3a2c00c0-eda3-4b72-af07-b07e820365c5",
+            "localPath": "/notes/day-58/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/313e030b-add3-4384-bdf0-96306e3663b1",
+            "localPath": "/notes/day-58/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c3a21043-c4fc-47fb-9294-953700fbd8ed",
+            "localPath": "/notes/day-58/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/80dce78b-3a7e-4c93-a5f1-47eefb6e28b0",
+            "localPath": "/notes/day-58/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a5b44611-af07-4bf6-94b3-957ee342bb24",
+            "localPath": "/notes/day-58/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7924d814-35f2-40d0-ac3c-a2f8022df2bc",
+            "localPath": "/notes/day-58/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/45432356-9b45-43dd-99c7-701984d541c1",
+            "localPath": "/notes/day-58/12.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f097e29c-c7f6-4045-9451-9fdd5035b4b4",
+            "localPath": "/notes/day-58/13.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b6ec70b7-d628-422b-b693-d9f0af9d1e78",
+            "localPath": "/notes/day-58/14.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/fbc3b9fd-c0db-48f3-9ce8-270812e00008",
+            "localPath": "/notes/day-58/15.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cec94d93-d58b-43b1-8e5e-f4c07ee430fd",
+            "localPath": "/notes/day-58/16.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b20dbb39-fac6-4cf3-926b-869e75c04e15",
+            "localPath": "/notes/day-58/17.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/48a4810d-a56c-4aef-8cfd-d2474d42cbb1",
+            "localPath": "/notes/day-58/18.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6d11036b-3d82-4c2f-a20a-4367eb18ca8a",
+            "localPath": "/notes/day-58/19.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/80a91b22-c4fa-43e2-b035-05ac6199c6f3",
+            "localPath": "/notes/day-58/20.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/80d5a300-a3ef-4e46-ae1a-7b7afb6a5078",
+            "localPath": "/notes/day-58/21.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/43f70936-4b10-4647-8f57-a086e3f0b7bc",
+            "localPath": "/notes/day-58/22.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3a98ae1c-13a4-4bde-ab8c-398f8d16da43",
+            "localPath": "/notes/day-58/23.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d80eff95-41c7-43c6-a31e-0ebde3a7cd81",
+            "localPath": "/notes/day-58/24.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/960f24e5-efb9-4a15-9f5f-2a8e45b2d425",
+            "localPath": "/notes/day-58/25.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a3cb544c-3ce4-43b5-b054-e52e8388ab83",
+            "localPath": "/notes/day-58/26.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4cb2783e-26db-4584-8daa-feba124e9966",
+            "localPath": "/notes/day-58/27.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/220202e1-222f-4966-81a6-aafa81727c33",
+            "localPath": "/notes/day-58/28.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8cd2c63a-aa10-48c3-b826-fe107d04666d",
+            "localPath": "/notes/day-58/29.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/957336a3-d81c-4914-b35f-99925a316ad3",
+            "localPath": "/notes/day-58/30.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ed70b1b9-b0b6-4b37-b4a5-4492a0cb9120",
+            "localPath": "/notes/day-58/31.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/12bcb065-78af-47b9-810c-fbe7ad739260",
+            "localPath": "/notes/day-58/32.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4782e82e-4545-458e-917c-42d40e08748d",
+            "localPath": "/notes/day-58/33.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7a84ce73-0250-404b-896c-695ac5b9d05a",
+            "localPath": "/notes/day-58/34.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/2ca8357b-7564-4ef9-8f36-cb730a4b415f",
+            "localPath": "/notes/day-58/35.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5a06ae8b-cad0-46ec-bf34-adab0960fc41",
+            "localPath": "/notes/day-58/36.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b6eefbd8-f79e-4dc6-90e6-95a8c0c17849",
+            "localPath": "/notes/day-58/37.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/75d359fe-dc41-4d87-9351-e1da0ebbb8c7",
+            "localPath": "/notes/day-58/38.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/29f5608e-9edb-4c6e-9382-998deedd4c72",
+            "localPath": "/notes/day-58/39.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7d87bbcc-ed95-47b6-b966-fb95f5bb7f29",
+            "localPath": "/notes/day-58/40.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/605361a0-c8da-47fc-bca3-af09751838dd",
+            "localPath": "/notes/day-58/41.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e13bdcea-cb87-4e38-9dd4-711079761987",
+            "localPath": "/notes/day-58/42.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7eddccfb-07cd-4ba9-914e-54161a4b10f3",
+            "localPath": "/notes/day-58/43.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e9f303bc-9078-4ff2-be86-f63fb9877008",
+            "localPath": "/notes/day-58/44.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4637053c-042d-4afc-acf8-27e914698c00",
+            "localPath": "/notes/day-58/45.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/c9d26aa3-c277-45ac-8f74-1dbd11e1bda5",
+            "localPath": "/notes/day-58/46.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/afbdb580-5383-4f32-9713-708f0a4ebb7e",
+            "localPath": "/notes/day-58/47.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3eeee534-2071-47df-97f6-639e46d54b94",
+            "localPath": "/notes/day-58/48.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/7c18a89c-cad3-4f54-b6e5-6d5956edbd37",
+            "localPath": "/notes/day-58/49.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6319e0ad-4c65-418d-920b-3c1f43ae4b55",
+            "localPath": "/notes/day-58/50.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "title": "Intro to Network Automation",
+    "parts": [
+      {
+        "part": "",
+        "title": "Intro to Network Automation",
+        "file": "Day 59 - Intro to Network Automation.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/6a72186b-2956-45f6-8643-801caa2cb28e",
+            "localPath": "/notes/day-59/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4c21b082-5d6e-4388-94c5-bebf33b50c8d",
+            "localPath": "/notes/day-59/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3cfffa40-f4cb-4042-8778-139605c2eb26",
+            "localPath": "/notes/day-59/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/05c4c5d9-5ba4-480c-9c13-72fa1f7937db",
+            "localPath": "/notes/day-59/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d980626f-f731-46a4-ba14-72c3d21f2fd3",
+            "localPath": "/notes/day-59/05.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "title": "JSON, XML, and YAML",
+    "parts": [
+      {
+        "part": "",
+        "title": "JSON, XML, and YAML",
+        "file": "Day 60 - JSON, XML, and YAML.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f09eeeba-7779-40c8-af18-f1227bf0cf47",
+            "localPath": "/notes/day-60/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/24a15571-bb9f-43b4-889f-69f23ffb91bc",
+            "localPath": "/notes/day-60/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b66f041d-2449-43f0-8a04-2c0da5391411",
+            "localPath": "/notes/day-60/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/54d69eed-4369-4ef6-a437-6b5ecce14586",
+            "localPath": "/notes/day-60/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/3212f472-f966-49e5-9b9a-7bedcfe47487",
+            "localPath": "/notes/day-60/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f8075e93-2be7-4b2e-a2af-968961bbc5a7",
+            "localPath": "/notes/day-60/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f954b0ef-f563-4536-94c8-334b6d8f97c6",
+            "localPath": "/notes/day-60/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/948dae9e-b59b-4607-8e6d-b39837baba70",
+            "localPath": "/notes/day-60/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ecfa3659-4bc3-4596-9f11-10d2644eac1a",
+            "localPath": "/notes/day-60/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/16e0e98b-5653-4f8a-a388-1706f91a30d4",
+            "localPath": "/notes/day-60/10.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "title": "REST APIs",
+    "parts": [
+      {
+        "part": "",
+        "title": "REST APIs",
+        "file": "Day 61 - REST APIs.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b25ca0c6-5a79-4dcc-afde-096b1868219b",
+            "localPath": "/notes/day-61/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e859d701-50bc-475a-89ca-5267efaeaf87",
+            "localPath": "/notes/day-61/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/23dc6233-ce58-44c6-805b-05f1cbc7b933",
+            "localPath": "/notes/day-61/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/010f553f-971d-49d8-be1b-dd0eff5854ac",
+            "localPath": "/notes/day-61/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/1ab2d4c3-11c1-4189-9a44-ae0f6405536c",
+            "localPath": "/notes/day-61/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/e39d0588-8e4c-441b-97b9-c2345bf09342",
+            "localPath": "/notes/day-61/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/d3747417-a936-498c-99d3-f508d436d451",
+            "localPath": "/notes/day-61/07.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "title": "Software Defined Networking",
+    "parts": [
+      {
+        "part": "",
+        "title": "Software Defined Networking",
+        "file": "Day 62 - Software Defined Networking.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/9d7e1a89-3537-48cc-a410-cef352b6a2cb",
+            "localPath": "/notes/day-62/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/4c1662ee-490c-4eee-8970-550ca60feabb",
+            "localPath": "/notes/day-62/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/41bb11dd-31c9-493e-9fec-af847f0732dc",
+            "localPath": "/notes/day-62/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/99f48b9e-ed68-4c11-b456-d0f6ccf13fed",
+            "localPath": "/notes/day-62/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/35cf981c-337d-4117-9124-9f210e85bff3",
+            "localPath": "/notes/day-62/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0315f1e5-d9c6-47ce-acf2-1de6f14ac89c",
+            "localPath": "/notes/day-62/06.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/84d48992-30f9-45cf-856a-089ce00d0641",
+            "localPath": "/notes/day-62/07.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/8fd0bb65-31df-4db5-a79c-044c68c37b01",
+            "localPath": "/notes/day-62/08.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/b4c017b1-cc59-4305-9924-f25a5445a36b",
+            "localPath": "/notes/day-62/09.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/5adcaf16-4caf-4de2-9b8f-3e777c841bc6",
+            "localPath": "/notes/day-62/10.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/30773f46-3564-4d66-a175-20962d1569dd",
+            "localPath": "/notes/day-62/11.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/cb9e0184-6b45-4dcc-85ae-cef3245c1629",
+            "localPath": "/notes/day-62/12.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "title": "Ansible, Puppet, and Chef",
+    "parts": [
+      {
+        "part": "",
+        "title": "Ansible, Puppet, and Chef",
+        "file": "Day 63 - Ansible, Puppet, and Chef.md",
+        "images": [
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/0c74b2a6-1ce7-4758-b6b8-340594d567c3",
+            "localPath": "/notes/day-63/01.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/f9eb7783-5e42-4cfe-aec8-8b57cd316f4d",
+            "localPath": "/notes/day-63/02.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ba2a68b5-7661-4eff-bd5f-8c32bde354da",
+            "localPath": "/notes/day-63/03.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/ec26ad33-7534-4f15-93f0-4557337bfaec",
+            "localPath": "/notes/day-63/04.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/eaf5be1b-3635-4806-bb7a-f397ffa1b411",
+            "localPath": "/notes/day-63/05.png"
+          },
+          {
+            "url": "https://github.com/psaumur/CCNA/assets/106411237/a4d212e6-df46-45d1-a2ca-3e55220c4b5c",
+            "localPath": "/notes/day-63/06.png"
+          }
+        ]
+      }
+    ]
+  }
+]

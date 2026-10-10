@@ -1,0 +1,19 @@
+# Course notes (third-party content, not ours to republish)
+content/raw/
+
+# Generated lessons and downloaded note images
+content/lessons/
+public/notes/
+
+# Secrets
+.env.local
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.log
+
+# TypeScript build cache
+*.tsbuildinfo

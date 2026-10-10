@@ -26,7 +26,13 @@ if not exist node_modules (
   if errorlevel 1 goto :fail
 )
 
-if not exist content\manifest.json (
+if not exist content\raw\Course_Notes (
+  echo Downloading course notes ^(first run only^)...
+  call npm run fetch-notes
+  if errorlevel 1 goto :fail
+)
+
+if not exist public\notes (
   echo Downloading course images ^(first run only^)...
   call npm run ingest
   if errorlevel 1 goto :fail

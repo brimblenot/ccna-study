@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "fetch-notes": "tsx scripts/fetch-notes.ts",
     "ingest": "tsx scripts/ingest.ts",
     "validate": "tsx scripts/validate-lessons.ts"
   },
